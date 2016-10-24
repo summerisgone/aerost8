@@ -1,6 +1,8 @@
 <script type="text/javascript" src="{{ "/public/audiojs/audio.min.js" | prepend: site.baseurl }}"></script>
 <script>
   audiojs.events.ready(function() {
-    var as = audiojs.createAll();
+    var as = audiojs.createAll({
+        imageLocation: '{{ "/public/audiojs/player-graphics.gif" | prepend: site.baseurl }}'
+    });
   });
 </script>

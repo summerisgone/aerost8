@@ -26,9 +26,11 @@
         float: right;
         @include date;
     }
+    .post-list__post {
+        margin: 2em 0;
+    }
     .post-list__excerpt {
         font-size: 1.65rem;
-        margin: 2em 0;
         line-height: 1.85em;
         font-weight: 300;
     }

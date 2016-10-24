@@ -3,14 +3,11 @@ layout: post
 title: Новые Песни Октября
 date: 2016-10-16
 track: http://summerisgone.com.s3-website-eu-west-1.amazonaws.com/596.mp3
-excerpt_separator: <!--more-->
 ---
-
-<audio src="{{page.track}}" preload="auto"></audio>
 
 Здравствуйте!
 Пока я увлекался славословием и воздавал хвалы Джину Кларку и Джону Леннону, в мире навыходило много всякой новой музыки. Вот у Tiger Lillies, например, вышел альбом, посвященный жизни великой французской певицы Эдит Пиаф.
-<!--more-->
+
 {:.track}
 Tiger Lillies - Marcel's Gone Away
 

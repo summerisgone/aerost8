@@ -13,6 +13,7 @@ layout: default
                     <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                 </h2>
                 <div class="post-list__excerpt">{{ post.excerpt }}</div>
+                <audio src="{{post.track}}" preload="none"></audio>
             </div>
             {% endfor %}
         </div>
