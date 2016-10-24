@@ -1,0 +1,35 @@
+@mixin date {
+    font-style: italic;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: darken(white, 67%);
+}
+
+.post {
+    .post__date {
+        float: right;
+        @include date;
+    }
+
+    .post__content {
+        p {
+            font-size: 1.85rem;
+            margin: 2em 0;
+            line-height: 1.85em;
+            font-weight: 300;
+        }
+    }
+}
+
+
+.post-list {
+    .post-list__date {
+        float: right;
+        @include date;
+    }
+    .post-list__excerpt {
+        font-size: 1.65rem;
+        margin: 2em 0;
+        line-height: 1.85em;
+        font-weight: 300;
+    }
+}
