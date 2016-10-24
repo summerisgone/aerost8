@@ -2,6 +2,7 @@
     <div class="container-fluid">
         <h1 class="header__logo">
             <a class="header__link" href="{{ site.baseurl }}/">{{ site.title }}</a>
+            <div class="header__description">{{ site.description }}</div>
         </h1>
         <nav class="header__nav">
             {% for menu_page in site.pages %} {% if menu_page.title %}

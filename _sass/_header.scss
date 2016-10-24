@@ -8,6 +8,17 @@
     .header__logo {
         font-weight: 100;
         padding-top: 3rem;
+        padding-bottom: 0;
+
+        .header__link {
+            padding-bottom: 1.7rem;
+        }
+    }
+
+    .header__description {
+        font-weight: 100;
+        font-size: 1.1rem;
+        letter-spacing: 2pt;
     }
 
     .header__link {

@@ -1,5 +1,7 @@
 github: [metadata]
 title: Аэростат
+description: цикл передач для Радио России
+keywords: Аэростат, Аквариум, БГ, Гребенщиков, Борис Гребенщиков
 kramdown:
     input: GFM
     hard_wrap: false
