@@ -7,3 +7,8 @@
 
 Root folder should be considered as python project, aimed to generate and scrape
 data for the website.
+
+
+## Scraper
+
+In aquarium_site folder run ``scrapy crawl issues -LINFO -o issues.json``
