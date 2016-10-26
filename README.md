@@ -1,8 +1,7 @@
 # Repository for managing podcast site aerostat
 
 ## Website
-
-Website is build with github pages, and set up in the ``docs`` folder in the master branch.
+[![](https://raw.githubusercontent.com/summerisgone/aerost8/master/docs/public/icon.png) Website](http://aerostat.rocks/) is build with github pages, and set up in the ``docs`` folder in the master branch.
 
 ## Repository
 
