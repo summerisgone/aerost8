@@ -22,7 +22,8 @@ def main(path, title=None, number=None, out=None):
     issue.export(
         join(out_path, '{number}-{title}.mp3'.format(number=issue_number, title=issue_title)),
         format='mp3',
-        tags={'album': 'Aerostat', 'artist': 'Boris Grebenshikov', 'track': issue_title}
+        tags={'album': 'Aerostat', 'artist': 'Boris Grebenshikov', 'track': issue_title},
+        parameters=["-q:a", "0"]
     )
     with open(join(out_path, '{number}-{title}.txt'.format(number=issue_number, title=issue_title)), 'w') as f:
         f.write('\n'.join(tracks))
