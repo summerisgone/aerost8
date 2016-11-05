@@ -40,7 +40,7 @@ def parse_date(source):
         match2 = re.search(r'(\d{1,2})\s*(\w+)\s*(\d{4})', match.group(), re.MULTILINE | re.UNICODE)
         if match2:
             day, month, year = match2.groups()
-            return datetime.date(int(year), parse_month(month), int(day))
+            return datetime.datetime(int(year), parse_month(month), int(day))
     raise ValueError
 
 
@@ -49,9 +49,9 @@ def trim_inside(soup):
 
 class MyspiderSpider(scrapy.Spider):
     name = "issues"
-    allowed_domains = ["aquarium.ru"]
+    allowed_domains = ["localhost:8000"]
     start_urls = [
-        'http://aquarium.ru/misc/aerostat/aerostat{0}.html'.format(str(i).zfill(2))
+        'http://localhost:8000/aerostat{0}.html'.format(str(i).zfill(2))
         for i in range(1,600)
     ]
 
@@ -67,7 +67,8 @@ class MyspiderSpider(scrapy.Spider):
         soup = BeautifulSoup(response.text, 'lxml')
         body = soup.findAll('table')[0].tr.td
         header = body.findAll('p')[0].text
-        issue_text = trim_inside(body.findAll('p')[2:])
+        # issue_text = trim_inside(body.findAll('p')[2:])
+        issue_text = [l.strip() for l in text.splitlines() if l.strip()]
         issue_date = parse_date(header.split(',')[-1])
         issue_name = header.split(',')[0]
         issue_number = int(re.findall('(\d+)\.html', response.url)[0])

@@ -64,9 +64,10 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'aquarium_site.pipelines.SomePipeline': 300,
-#}
+ITEM_PIPELINES = {
+   'aquarium_site.pipelines.MongoPipeline': 300,
+}
+MONGO_URI = 'localhost:27017'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html

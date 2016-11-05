@@ -3,3 +3,4 @@ scrapy==1.2
 html2text
 pydub
 transliterate
+pymongo
