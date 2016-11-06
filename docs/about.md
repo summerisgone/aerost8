@@ -1,7 +1,12 @@
 ---
 layout: page
-title: About
+title: О сайте
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Сайт [aerostat.rocks](http://aerostat.rocks/) &mdash; неофициальный архив выпусков
+передачи "Аэростат" Бориса Гребенщикова.
+
+Наша цель - сделать так, чтобы "Аэростаты" были доступнее, ближе и яснее к слушателям.
+
+Пожелания, вопросы и предложения посылать на адрес [admin@aerostat.rocks](mailto:admin@aerostat.rocks).

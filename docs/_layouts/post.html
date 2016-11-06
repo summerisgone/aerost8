@@ -11,7 +11,9 @@ layout: default
             </header>
 
             <div class="post__content" itemprop="articleBody">
+                {% if page.track %}
                 <audio src="{{page.track}}" preload="none"></audio>
+                {% endif %}
                 {{ content }}
             </div>
         </div>
