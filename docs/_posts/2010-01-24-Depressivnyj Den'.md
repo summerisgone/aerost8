@@ -3,6 +3,8 @@ layout: post
 title: "Депрессивный День"
 issue: 245
 date: 2010-01-24
+excerpt: >
+    По наблюдениям психологов, вчера - 23 января, был самый депрессивный день в году.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/245-Depressivnyj Den'.mp3"
 ---
 

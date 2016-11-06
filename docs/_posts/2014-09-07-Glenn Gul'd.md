@@ -3,6 +3,8 @@ layout: post
 title: "Гленн Гульд"
 issue: 486
 date: 2014-09-07
+excerpt: >
+    Сегодня в начале передачи много слов говорить необязательно, достаточно будет одного имени: Гленн Гульд.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/486-Glenn Gul'd.mp3"
 ---
 

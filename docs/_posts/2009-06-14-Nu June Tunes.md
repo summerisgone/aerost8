@@ -3,6 +3,8 @@ layout: post
 title: "Nu June Tunes"
 issue: 213
 date: 2009-06-14
+excerpt: >
+    Замечательно все-таки сказал Том Вэйтс в фильма "Вне закона": "вот выйду из тюрьмы, буду целых два дня слушать музыку, которую никогда раньше не слышал".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/213-Nu June Tunes.mp3"
 ---
 

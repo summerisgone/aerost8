@@ -3,6 +3,8 @@ layout: post
 title: "Новогодние заявки"
 issue: 240
 date: 2009-12-20
+excerpt: >
+    Одна из самых приятных моих обязанностей - это в преддверии Рождества и Нового Года исполнять ваши заявки.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/240-Novogodnie zajavki.mp3"
 ---
 

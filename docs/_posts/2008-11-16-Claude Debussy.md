@@ -3,6 +3,8 @@ layout: post
 title: "Claude Debussy"
 issue: 183
 date: 2008-11-16
+excerpt: >
+    На прошлой неделе мы говорили про поп-музыку; самое время резко повернуть штурвал и завести речь про Клода Дебюсси.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/183-Claude Debussy.mp3"
 ---
 

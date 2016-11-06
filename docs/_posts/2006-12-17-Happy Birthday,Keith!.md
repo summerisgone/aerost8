@@ -3,6 +3,8 @@ layout: post
 title: "Happy Birthday, Keith!"
 issue: 83
 date: 2006-12-17
+excerpt: >
+    Сегодня хочется воспеть хвалу подлинному герою нашего времени. Завтра у нас - день рождения изначального пирата XX-го века, гитариста группы Rolling Stones, одного из величайших композиторов мира Кита Ричардса (Keith Richards).
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/083-Happy Birthday,Keith!.mp3"
 ---
 

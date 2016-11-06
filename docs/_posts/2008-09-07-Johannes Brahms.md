@@ -3,6 +3,8 @@ layout: post
 title: "Johannes Brahms"
 issue: 173
 date: 2008-09-07
+excerpt: >
+    Хм. Что мы знаем про композиторов? Композитор - как радиоприемник; воспринимает в бесконечной вселенной свое видение прекрасного и по мере сил передает его нам.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/173-Johannes Brahms.mp3"
 ---
 

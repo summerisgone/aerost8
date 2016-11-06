@@ -3,6 +3,8 @@ layout: post
 title: "Brian Eno, part 1"
 issue: 224
 date: 2009-08-30
+excerpt: >
+    Послезавтра 1 сентября. Дети собираются в школу. Там им растолкуют таблицу умножения и другие разности. Но как говорилось раньше: "Числа существуют для низшей жизни".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/224-Brian Eno, Part 1.mp3"
 ---
 

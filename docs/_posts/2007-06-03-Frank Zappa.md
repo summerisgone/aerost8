@@ -3,6 +3,8 @@ layout: post
 title: "Frank Zappa"
 issue: 107
 date: 2007-06-03
+excerpt: >
+    Есть в английском языке такое непереводимое понятие - freak out. Один человек определил его так:
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/107-Frank Zappa.mp3"
 ---
 

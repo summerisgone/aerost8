@@ -3,6 +3,8 @@ layout: post
 title: "&quot;World music&quot;"
 issue: 9
 date: 2005-07-17
+excerpt: >
+    Как сказал однажды апостол Павел - люди всякие нужны, люди всякие важны. Или что-то в таком духе.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/009-World music.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "George Frideric Handel"
 issue: 81
 date: 2006-12-03
+excerpt: >
+    Здравствуйте! Сегодня мы предпримем непривычное и неожиданное - но, по-моему, время пришло!
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/081-George Frideric Handel.mp3"
 ---
 

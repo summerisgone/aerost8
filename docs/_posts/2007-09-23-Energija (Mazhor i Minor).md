@@ -3,6 +3,8 @@ layout: post
 title: "Энергия (Мажор и Минор)."
 issue: 123
 date: 2007-09-23
+excerpt: >
+    Сегодня мы будем говорить о простых земных вещах, надежных и главных, словно кухня, лужа или ясное синее небо.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/123-Energija (Mazhor i Minor).mp3"
 ---
 

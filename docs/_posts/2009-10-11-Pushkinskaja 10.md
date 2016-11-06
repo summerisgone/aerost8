@@ -3,6 +3,8 @@ layout: post
 title: "Пушкинская 10"
 issue: 230
 date: 2009-10-11
+excerpt: >
+    Меня очень часто - даже слишком часто - спрашивали: откуда у Вас в песнях буддийская тематика?
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/230-Pushkinskaja 10.mp3"
 ---
 

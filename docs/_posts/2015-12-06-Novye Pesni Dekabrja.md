@@ -3,6 +3,8 @@ layout: post
 title: "Новые Песни Декабря"
 issue: 551
 date: 2015-12-06
+excerpt: >
+    За то время, пока мы были заняты всем остальным, успело навыходить новых альбомов. Предлагаю сегодня оглянуться вокруг и послушать, что успеем.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/551-Novye Pesni Dekabrja.mp3"
 ---
 

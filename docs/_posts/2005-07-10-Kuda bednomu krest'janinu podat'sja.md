@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Куда бедному крестьянину податься?&quot;"
 issue: 8
 date: 2005-07-10
+excerpt: >
+    Так писал Александр Сергеевич Пушкин о музыке 60-х годов. Но ничто не вечно под луной, наступили 70-е.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/008-Kuda bednomu krest'janinu podat'sja.mp3"
 ---
 

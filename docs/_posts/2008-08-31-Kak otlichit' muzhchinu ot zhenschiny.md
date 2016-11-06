@@ -3,6 +3,8 @@ layout: post
 title: "Как отличить мужчину от женщины"
 issue: 172
 date: 2008-08-31
+excerpt: >
+    Завтра у нас 1 сентября; дети собираются в школу - не станем же оставать от них - устремим мысли к образованию.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/172-Kak otlichit' muzhchinu ot zhenschiny.mp3"
 ---
 

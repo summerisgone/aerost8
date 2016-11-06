@@ -3,6 +3,8 @@ layout: post
 title: "Imbolk - Celts Galore! 29 января 2006"
 issue: 37
 date: 2006-01-29
+excerpt: >
+    Здравствуйте! Вот и снова у нас на носу священный кельтский праздник - Химолк, Начало Весны. В глубинах промерзшей земли вновь начинается шевелиться и мяукать великая тайна жизни.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/037-Imbolk - Celts Galore!.mp3"
 ---
 

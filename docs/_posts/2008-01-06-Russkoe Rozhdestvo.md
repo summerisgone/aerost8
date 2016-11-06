@@ -3,6 +3,8 @@ layout: post
 title: "Русское Рождество"
 issue: 138
 date: 2008-01-06
+excerpt: >
+    Поздравляю всех нас с наступившим Новым годом! Завтра у нас праздник Рождества по православному стилю - с этим я вас сегодня и поздравляю.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/138-Russkoe Rozhdestvo.mp3"
 ---
 

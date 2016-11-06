@@ -3,6 +3,8 @@ layout: post
 title: "Peter Gabriel"
 issue: 151
 date: 2008-04-06
+excerpt: >
+    Сегодня хочется поиграть вам музыку одного чудесного, упоительного и искрометного джентльмена; даже не просто джентльмена, а джентльмена из джентльменов. А зовут его - Питер Гэбриэл.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/151-Peter Gabriel.mp3"
 ---
 

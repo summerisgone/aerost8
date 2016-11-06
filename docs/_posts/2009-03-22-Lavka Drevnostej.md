@@ -3,6 +3,8 @@ layout: post
 title: "Лавка Древностей"
 issue: 201
 date: 2009-03-22
+excerpt: >
+    Как прекрасно - иметь привилегию каждую неделю говорить вам это великолепноеное слово:
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/201-Lavka Drevnostej.mp3"
 ---
 

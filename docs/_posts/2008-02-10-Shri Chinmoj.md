@@ -3,6 +3,8 @@ layout: post
 title: "Шри Чинмой"
 issue: 143
 date: 2008-02-10
+excerpt: >
+    Я хочу рассказать вам сегодня об поразительном человеке, с которым Бог привел меня встретиться два года тому назад.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/143-Shri Chinmoj.mp3"
 ---
 

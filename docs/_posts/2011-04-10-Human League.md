@@ -3,6 +3,8 @@ layout: post
 title: "Human League10 апреля 2011"
 issue: 308
 date: 2011-04-10
+excerpt: >
+    Недавное упоминание в Аэростате про мартовских зайцев электрического поп-феномена по имени Human League вызвало, не побоюсь этого слова, шквал ваших писем.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/308-Human League.mp3"
 ---
 

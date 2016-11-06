@@ -3,6 +3,8 @@ layout: post
 title: "Новые песни, старые песни"
 issue: 79
 date: 2006-11-19
+excerpt: >
+    Это были "Воры Из Розового Леса" (The Rosewood Thieves) - c песней про Лос Анжелес.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/079-Novye pesni,starye pesni.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Сделай сам!&quot;"
 issue: 22
 date: 2005-10-16
+excerpt: >
+    Известный писатель Чарлз Буковски сказал: "Я пишу не потому, что это очень хорошо; я пишу потому, что все остальное очень плохо".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/022-Sdelaj Sam!.mp3"
 ---
 

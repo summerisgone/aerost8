@@ -3,6 +3,8 @@ layout: post
 title: "Новые Песни со Стогов"
 issue: 330
 date: 2011-09-11
+excerpt: >
+    Его вы, возможно узнали. Уильям Эллиотт Уитмор, независимый герой с американских холмов и его новый альбом "Песни с Полей".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/330-Novye Pesni so Stogov.mp3"
 ---
 

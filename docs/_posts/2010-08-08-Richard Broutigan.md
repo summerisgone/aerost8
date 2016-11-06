@@ -3,6 +3,8 @@ layout: post
 title: "Ричард Броутиган8 августа 2010"
 issue: 273
 date: 2010-08-08
+excerpt: >
+    В незапамятные время кто-то подарил мне книгу. Книга называлась "In Watermelon Sugar". Или по-русски - "В Арбузном Сахаре". Я открыл эту книгу и прочитал:
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/273-Richard Broutigan.mp3"
 ---
 

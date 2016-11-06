@@ -3,6 +3,8 @@ layout: post
 title: "Glenn Miller Story"
 issue: 185
 date: 2008-11-30
+excerpt: >
+    Вот я сижу и думаю - Боже мой, не перегружаю ли я вас всякими сложностями? То сестры Коллинз, то слоны на кислоте, то вообще Клод Дебюсси...
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/185-Glenn Miller Story.mp3"
 ---
 

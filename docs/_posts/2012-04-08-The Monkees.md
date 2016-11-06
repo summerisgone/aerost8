@@ -3,6 +3,8 @@ layout: post
 title: "The Monkees"
 issue: 360
 date: 2012-04-08
+excerpt: >
+    Сегодня я расскажу вам о музыке, о которой редко кто вспоминает; но раз редко вспоминают, то мы-то о ней и вспомним.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/360-The Monkees.mp3"
 ---
 

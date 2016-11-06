@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Pet Sounds&quot;"
 issue: 561
 date: 2016-02-14
+excerpt: >
+    Сегодня я хочу рассказать вам про альбом, который называют лучшим в истории музыки.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/561-''Pet Sounds''.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "Восток и Запад"
 issue: 114
 date: 2007-07-22
+excerpt: >
+    И вот снится мне, как из-за далеких гор встает солнце и освещает белоснежный мраморный дворец.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/114-Vostok i Zapad.mp3"
 ---
 

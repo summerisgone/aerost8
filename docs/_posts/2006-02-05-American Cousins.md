@@ -3,6 +3,8 @@ layout: post
 title: "American Cousins"
 issue: 38
 date: 2006-02-05
+excerpt: >
+    Февраль, холода - самое время вновь залезть погреться в райские кущи золотого века.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/038-American Cousins.mp3"
 ---
 

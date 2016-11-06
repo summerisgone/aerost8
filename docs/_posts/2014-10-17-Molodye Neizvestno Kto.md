@@ -3,6 +3,8 @@ layout: post
 title: "Молодые Неизвестно Кто"
 issue: 492
 date: 2014-10-17
+excerpt: >
+    Однажды Пабло Пикассо, придя к гости к Полю Элюару, молчал весь вечер, а, уходя, вдруг как закричит: "У юности нет возраста".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/492-Molodye Neizvestno Kto.mp3"
 ---
 

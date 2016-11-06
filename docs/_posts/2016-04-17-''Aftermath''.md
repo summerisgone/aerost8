@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Aftermath&quot;"
 issue: 570
 date: 2016-04-17
+excerpt: >
+    Полвека тому назад, в 1966 году группа Rolling Stones выпустила альбом "Aftermath", ставший водоразделом не только в их музыке, но и в их жизни.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/570-''Aftermath''.mp3"
 ---
 

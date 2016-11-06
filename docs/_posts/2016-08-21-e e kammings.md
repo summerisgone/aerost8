@@ -3,6 +3,8 @@ layout: post
 title: "э э каммингс"
 issue: 588
 date: 2016-08-21
+excerpt: >
+    Здравствуйте! Сегодня я хочу рассказать вам немного об американском поэте Эдвине Эстлине Каммингсе.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/588-e e kammings.mp3"
 ---
 

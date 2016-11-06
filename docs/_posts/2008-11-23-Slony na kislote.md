@@ -3,6 +3,8 @@ layout: post
 title: "Слоны на кислоте"
 issue: 184
 date: 2008-11-23
+excerpt: >
+    О чем только мы с вами не говорили; и о том говорили, и о сем; об одном только никогда еще не заикались: о слонах на кислоте.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/184-Slony na kislote.mp3"
 ---
 

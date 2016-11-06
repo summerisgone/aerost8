@@ -3,6 +3,8 @@ layout: post
 title: "Radio Silence"
 issue: 522
 date: 2015-05-17
+excerpt: >
+    В массе писем, приходящих ко мне по поводу Аэростата, нет нет, да и встретится письмо "расскажите, пожалуйста про ваш альбом Radio Silence". Ну, что ж, сами попросили.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/522-Radio Silence.mp3"
 ---
 

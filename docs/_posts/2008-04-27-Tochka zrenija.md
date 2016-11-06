@@ -3,6 +3,8 @@ layout: post
 title: "Точка зрения"
 issue: 154
 date: 2008-04-27
+excerpt: >
+    Поздравляю всех вас с праздником Пасхи! Воистину замечательный день; ангелы поют в небесах, а в человецех - благоволение.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/154-Tochka zrenija.mp3"
 ---
 

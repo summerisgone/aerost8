@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Parsley, Sage, Rosemary & Thyme&quot;"
 issue: 357
 date: 2012-03-18
+excerpt: >
+    Сегодня я снова хочу поделиться с вами наслаждением от прослушивания одного из классических альбомов последних ста лет. И даже не одного, а сразу двух.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/357-Parsley, Sage, Rosemary & Thyme.mp3"
 ---
 

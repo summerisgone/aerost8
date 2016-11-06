@@ -3,6 +3,8 @@ layout: post
 title: "Roxy Music"
 issue: 222
 date: 2009-08-16
+excerpt: >
+    Однажды великий актер, а в свободное время - философ, Питер Устинов, не без иронии заметил: "Если бы Ботичелли был сейчас жив, он бы работал в журнале "Vogue".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/222-Roxy Music.mp3"
 ---
 

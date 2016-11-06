@@ -3,6 +3,8 @@ layout: post
 title: "Окуджава и Co"
 issue: 130
 date: 2007-11-11
+excerpt: >
+    Марина Цветаева сказала однажды: "Чтобы вещь продлилась, надо, чтобы она стала песней".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/130-Okudzhava i Co.mp3"
 ---
 

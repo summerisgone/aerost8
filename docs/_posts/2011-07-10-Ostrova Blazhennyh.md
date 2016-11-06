@@ -3,6 +3,8 @@ layout: post
 title: "Острова Блаженных"
 issue: 320
 date: 2011-07-10
+excerpt: >
+    Есть темы, на которые не очень принято говорить в обществе; но тем не менее... если шепотом.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/320-Ostrova Blazhennyh.mp3"
 ---
 

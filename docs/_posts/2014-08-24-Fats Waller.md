@@ -3,6 +3,8 @@ layout: post
 title: "Fats Waller"
 issue: 484
 date: 2014-08-24
+excerpt: >
+    Вот все говорят - джаз, джаз - а откуда этот джаз взялся? Кто его изобрел, кто его придумал?
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/484-Fats Waller.mp3"
 ---
 

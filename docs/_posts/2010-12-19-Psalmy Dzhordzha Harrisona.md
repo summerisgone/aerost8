@@ -3,6 +3,8 @@ layout: post
 title: "Псалмы Джорджа Харрисона"
 issue: 292
 date: 2010-12-19
+excerpt: >
+    Сегодня я хочу открыть вам одно бесценное сокровище, когда-то по ошибке названное "рок-альбомом".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/292-Psalmy Dzhordzha Harrisona.mp3"
 ---
 

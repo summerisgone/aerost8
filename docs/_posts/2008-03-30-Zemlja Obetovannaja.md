@@ -3,6 +3,8 @@ layout: post
 title: "Земля Обетованная (USA 30-50s)"
 issue: 150
 date: 2008-03-30
+excerpt: >
+    Бывает так: копаешь-копаешь, и вдруг откопаешь совершенство. Смахиваешь пыль времени и любуешься - и думаешь, вот ведь как могли, а!
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/150-Zemlja Obetovannaja.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "Pagan Albion"
 issue: 285
 date: 2010-10-31
+excerpt: >
+    Поздравляю всех вас с наступающим праздником осеннего сумрака, а значит - поворота к весне. Поздравляю с Соуэном!
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/285-Pagan Albion.mp3"
 ---
 

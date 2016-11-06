@@ -3,6 +3,8 @@ layout: post
 title: "Эпоха Водолея"
 issue: 149
 date: 2008-03-23
+excerpt: >
+    Какое прекрасное слово : "Здравствуйте!"; здравствуйте, будьте здоровы - и душой, и телом.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/149-Epoha Vodoleja.mp3"
 ---
 

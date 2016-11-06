@@ -3,6 +3,8 @@ layout: post
 title: "Булат Окуджава"
 issue: 564
 date: 2016-03-06
+excerpt: >
+    Сегодня я хочу рассказать вам про человека, у которого я учился писать песни и до сих пор не перестаю учиться.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/564-Bulat Okudzhava.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "The Hollies"
 issue: 214
 date: 2009-06-21
+excerpt: >
+    Бывает такое: живешь, живешь и вдруг - влюбляешься и не можешь перестать говорить о предмете своей теперешней любви.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/214-The Hollies.mp3"
 ---
 

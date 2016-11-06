@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Весна Идет, Весне Дорогу!&quot;, или Как Рок-н-Ролл Спас Западную Цивилизацию От Вымирания"
 issue: 48
 date: 2006-04-16
+excerpt: >
+    Здравствуйте! Сегодня я расскажу вам про то, как рок-н-ролл спас западную цивилизацию от полного вымирания.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/048-Kak Rok-n-Roll Spas Zapadnuju Tsivilizatsiju Ot Vymiranija.mp3"
 ---
 

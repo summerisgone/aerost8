@@ -3,6 +3,8 @@ layout: post
 title: "Сокровище 9 мая 2010"
 issue: 260
 date: 2010-05-09
+excerpt: >
+    Как сказал поэт: "Весна требует чрезвычайных средств". Я хочу сегодня поделиться с вами одним из них. Это альбом группы Cocteau Twins "Сокровище" ("Treasure").
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/260-Cocteau Twins.mp3"
 ---
 

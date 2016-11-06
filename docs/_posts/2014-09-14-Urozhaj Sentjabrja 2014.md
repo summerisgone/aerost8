@@ -3,6 +3,8 @@ layout: post
 title: "Урожай сентября 2014"
 issue: 487
 date: 2014-09-14
+excerpt: >
+    Снова пришло время считать собранные колоски; другими словами - смотреть какую новую музыку принесли нам поле первой половины сентября.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/487-Urozhaj Sentjabrja 2014.mp3"
 ---
 

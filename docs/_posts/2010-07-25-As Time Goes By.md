@@ -3,6 +3,8 @@ layout: post
 title: "As Time Goes By25 июля 2010"
 issue: 271
 date: 2010-07-25
+excerpt: >
+    Сегодня - 25 июля, Международный День Прекрасного, когда с незапамятных времен все человечество с любовью делится друг с другом шедеврами.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/271-As Time Goes By.mp3"
 ---
 

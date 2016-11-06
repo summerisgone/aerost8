@@ -3,6 +3,8 @@ layout: post
 title: "Nu June Tunes13 июня 2010"
 issue: 265
 date: 2010-06-13
+excerpt: >
+    Здравствуйте! Сегодня по традиции речь пойдет о новой музыке, вышедшей за последние времена. И для начала - неожиданность.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/265-Nu June Tunes.mp3"
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "Lughnassad"
 issue: 220
 date: 2009-08-02
+excerpt: >
+    Вчера был магический день Люнассад, праздник урожая. А значит самое время посмотреть - что нового и неизвестного нам ранее выросло на ниве магической кельтской музыки.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/220-Lughnassad.mp3"
 ---
 

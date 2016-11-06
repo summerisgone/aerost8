@@ -3,6 +3,8 @@ layout: post
 title: "Слово Растаману"
 issue: 67
 date: 2006-08-27
+excerpt: >
+    Но довольно, довольно этой нашей обычной предвзятости. Хватит описывать со стороны. Пусть растаманы сами расскажут о себе.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/067-Slovo Rastamanu.mp3"
 ---
 

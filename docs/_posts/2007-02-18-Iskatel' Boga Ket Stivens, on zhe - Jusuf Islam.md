@@ -3,6 +3,8 @@ layout: post
 title: "Искатель Бога Cat Stevens, он же - Юсуф Ислам"
 issue: 92
 date: 2007-02-18
+excerpt: >
+    Здравствуйте! Сегодня я расскажу вам правдивую историю о юноше, который любил искать Бога.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/092-Iskatel' Boga Ket Stivens, on zhe - Jusuf Islam.mp3"
 ---
 

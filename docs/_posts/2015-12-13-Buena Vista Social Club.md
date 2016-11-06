@@ -3,6 +3,8 @@ layout: post
 title: "Buena Vista Social Club"
 issue: 552
 date: 2015-12-13
+excerpt: >
+    Пришло несколько писем, в которых просят рассказать про феномен кубинской музыки под названием "Buena Vista Social Club". Что ж, прошу любить и жаловать.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/552-Buena Vista Social Club.mp3"
 ---
 

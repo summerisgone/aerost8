@@ -3,6 +3,8 @@ layout: post
 title: "New February Music"
 issue: 560
 date: 2016-02-07
+excerpt: >
+    Здравствуйте! Целый месяц январь я всеми силами удерживался от обзора новинок, но больше сдерживаться не могу.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/560-New February Music.mp3"
 ---
 

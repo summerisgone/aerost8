@@ -3,6 +3,8 @@ layout: post
 title: "Рождество"
 issue: 397
 date: 2012-12-23
+excerpt: >
+    Завтра грядет Рождество - а мы-то его празднуем уже давным-давно, ну так продолжим вместе с вами сегодня.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/397-Rozhdestvo.mp3"
 ---
 

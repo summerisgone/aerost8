@@ -3,6 +3,8 @@ layout: post
 title: "Памятка Паломнику по Европе"
 issue: 89
 date: 2007-01-28
+excerpt: >
+    Здравствуйте! Я уже рассказывал вам о священных городах Индии - настало время позаботиться о паломниках по Европе.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/089-Pamjatka Palomniku po Evrope.mp3"
 ---
 

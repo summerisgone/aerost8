@@ -3,6 +3,8 @@ layout: post
 title: "&quot;Astral Weeks&quot;"
 issue: 203
 date: 2009-04-05
+excerpt: >
+    Сегодня пришло, накоенц время время дать вам послушать одну из самых неортодоксальных музыкальных историй XX века. Я говорю об альбоме "Astral Weeks" ирландского певца Вана Моррисона.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/203-''Astral Weeks''.mp3"
 ---
 

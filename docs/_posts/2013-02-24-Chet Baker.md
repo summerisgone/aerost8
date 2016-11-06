@@ -3,6 +3,8 @@ layout: post
 title: "Chet Baker"
 issue: 406
 date: 2013-02-24
+excerpt: >
+    Сегодня время слушать джаз, и, конечно, лучший из лучших. Я имею в виду музыку Чета Бейкера
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/406-Chet Baker.mp3"
 ---
 

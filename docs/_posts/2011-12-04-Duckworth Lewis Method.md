@@ -3,6 +3,8 @@ layout: post
 title: "Duckworth Lewis Method"
 issue: 342
 date: 2011-12-04
+excerpt: >
+    Какое же я испытываю наслаждение, когда можно взять какую-нибудь совсем недавно вышедшую пластинку или CD, mp3, WAV file, USB или любую другую форму распространения музыки, взять ее, поставить и гордо сказать: А вот это вы слышали?
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/342-Duckworth Lewis Method.mp3"
 ---
 

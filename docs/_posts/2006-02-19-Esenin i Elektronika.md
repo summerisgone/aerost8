@@ -3,6 +3,8 @@ layout: post
 title: "Есенин и Электроника"
 issue: 40
 date: 2006-02-19
+excerpt: >
+    Доброго вам дня! Здравствуйте и преуспевайте! Сегодня мы снова будем говорить о электронной музыке.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/040-Esenin i Elektronika.mp3"
 ---
 

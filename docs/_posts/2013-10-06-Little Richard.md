@@ -3,6 +3,8 @@ layout: post
 title: "Little Richard"
 issue: 438
 date: 2013-10-06
+excerpt: >
+    Великий мастер слова Иосиф Бродский заметил однажды: "книга является средством перемещения в пространстве опыта со скоростью переворачиваемой страницы".
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/438-Little Richard.mp3"
 ---
 

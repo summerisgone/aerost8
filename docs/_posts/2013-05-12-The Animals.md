@@ -3,6 +3,8 @@ layout: post
 title: "The Animals"
 issue: 417
 date: 2013-05-12
+excerpt: >
+    Есть такое понятие – пропавшие без вести. Вот сегодня я хочу немного рассказать вам о группе The Animals – пропавшую без вести, при этом одну из величайших британских групп 1960-х годов.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/417-The Animals.mp3"
 ---
 

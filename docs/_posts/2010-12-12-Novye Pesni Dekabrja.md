@@ -3,6 +3,8 @@ layout: post
 title: "Новые Песни Декабря"
 issue: 291
 date: 2010-12-12
+excerpt: >
+    Пришел декабрь. на дворе зима - и, наверное, самое время послушать музыку, выпущенную разными замечательными людьми за последние два-три месяца.
 track: "http://aerost8.s3.eu-central-1.amazonaws.com/291-Novye Pesni Dekabrja.mp3"
 ---
 
