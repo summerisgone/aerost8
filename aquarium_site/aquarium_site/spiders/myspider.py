@@ -45,7 +45,7 @@ def parse_date(source):
 
 
 def trim_inside(soup):
-    return [re.sub('\s+', ' ', p.text) for p in soup]
+    return [re.sub('\s+', ' ', p) for p in soup]
 
 class MyspiderSpider(scrapy.Spider):
     name = "issues"
@@ -55,27 +55,25 @@ class MyspiderSpider(scrapy.Spider):
         for i in range(1,600)
     ]
 
+    def debug_print(self, response):
+        data = self.parse(response).next()
+        for p in data['paragraphs']:
+            print '*', p
+
     # in debugger: spider.parse(response).next()
     def parse(self, response):
-        ps = response.xpath("body//center//table[1]//tr//p//text()").extract()
-        handler = HTML2Text(baseurl=response.url)
-        handler.ignore_emphasis = True
-        handler.ignore_links = True
-        handler.ignore_images = True
-        text = handler.handle(response.xpath('body//center//table[1]').extract_first())
-
         soup = BeautifulSoup(response.text, 'lxml')
         body = soup.findAll('table')[0].tr.td
         header = body.findAll('p')[0].text
-        # issue_text = trim_inside(body.findAll('p')[2:])
-        issue_text = [l.strip() for l in text.splitlines() if l.strip()]
         issue_date = parse_date(header.split(',')[-1])
         issue_name = header.split(',')[0]
         issue_number = int(re.findall('(\d+)\.html', response.url)[0])
+        text = response.xpath('//body//center//table[not(@id)]//text()').extract()
+        paragraphs = trim_inside(filter(lambda p: p.strip(), text))[2:]
 
         # If paragraph is less than 100 chars, it's track name
         yield {
-            'paragraphs': issue_text,
+            'paragraphs': paragraphs,
             'name': issue_name,
             'date': issue_date,
             'issue': issue_number
