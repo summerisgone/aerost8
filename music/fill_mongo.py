@@ -3,7 +3,7 @@ import datetime
 import json
 import re
 import argparse
-from os.path import join
+from os.path import join, basename
 from glob import glob
 from pymongo import MongoClient
 
@@ -34,6 +34,7 @@ def main(txt_folder):
             }, {
                 '$set': {
                     'tracks': tracks,
+                    'url': 'http://aerost8.s3.eu-central-1.amazonaws.com/{0}'.format(basename(filename).replace('.txt', '.mp3')),
                     'slug': slug
                 }
             })

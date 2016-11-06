@@ -47,6 +47,9 @@ def parse_date(source):
 def trim_inside(soup):
     return [re.sub('\s+', ' ', p) for p in soup]
 
+def remove_ws(s):
+    return re.sub('\s+', ' ', s.strip())
+
 class MyspiderSpider(scrapy.Spider):
     name = "issues"
     allowed_domains = ["localhost:8000"]
@@ -66,15 +69,15 @@ class MyspiderSpider(scrapy.Spider):
         body = soup.findAll('table')[0].tr.td
         header = body.findAll('p')[0].text
         issue_date = parse_date(header.split(',')[-1])
-        issue_name = header.split(',')[0]
+        issue_name = header.rsplit(',', 1)[0]
         issue_number = int(re.findall('(\d+)\.html', response.url)[0])
-        text = response.xpath('//body//center//table[not(@id)]//text()').extract()
-        paragraphs = trim_inside(filter(lambda p: p.strip(), text))[2:]
+        ps = response.xpath('//body//center//table[not(@id)]//text()').extract()
+        paragraphs = filter(lambda p: p.strip(), ps)
 
         # If paragraph is less than 100 chars, it's track name
         yield {
-            'paragraphs': paragraphs,
-            'name': issue_name,
+            'paragraphs': [remove_ws(p) for p in paragraphs if p.strip()][2:],
+            'name': remove_ws(issue_name),
             'date': issue_date,
             'issue': issue_number
         }

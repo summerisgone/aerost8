@@ -4,3 +4,4 @@ html2text
 pydub
 transliterate
 pymongo
+PyYAML

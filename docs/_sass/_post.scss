@@ -17,6 +17,22 @@
             line-height: 1.85em;
             font-weight: 300;
         }
+
+        blockquote {
+            font-size: inherit;
+            margin: inherit;
+            line-height: inherit;
+            font-weight: inherit;
+
+            white-space: pre-line;
+            border-left: 4px solid #DDD;
+            padding: 0 15px;
+            color: #777;
+
+            p {
+                margin: 0;
+            }
+        }
     }
 }
 

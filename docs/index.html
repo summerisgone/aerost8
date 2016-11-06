@@ -6,16 +6,29 @@ layout: default
     <div class="col-sm-9">
         <h1>Выпуски</h1>
         <div class="post-list">
-            {% for post in site.posts %}
-            <div class="post-list__post">
-                <span class="post-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
-                <h2>
-                    <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                </h2>
-                <div class="post-list__excerpt">{{ post.excerpt }}</div>
-                <audio src="{{post.track}}" preload="none"></audio>
-            </div>
+            {% for post in paginator.posts %}
+                <div class="post-list__post">
+                    <span class="post-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <h2>
+                        <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                    <div class="post-list__excerpt">{{ post.excerpt }}</div>
+                    <audio src="{{post.track}}" preload="none"></audio>
+                </div>
             {% endfor %}
+        </div>
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+          {% else %}
+            <span class="previous">Previous</span>
+          {% endif %}
+          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+          {% else %}
+            <span class="next ">Next</span>
+          {% endif %}
         </div>
     </div>
     <div class="col-sm-3">
