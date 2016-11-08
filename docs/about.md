@@ -2,6 +2,8 @@
 layout: page
 title: О сайте
 permalink: /about/
+sitemap:
+    lastmod: 2016-11-01
 ---
 
 Сайт [aerostat.rocks](http://aerostat.rocks/) &mdash; неофициальный архив выпусков

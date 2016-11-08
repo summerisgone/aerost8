@@ -20,8 +20,7 @@ layout: null
       <url>
         <loc>{{ site.url }}{{ page.url | xml_escape }}!!</loc>
         <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
-        <changefreq>{{ page.sitemap.changefreq }}</changefreq>
-        <priority>{{ page.sitemap.priority }}</priority>
+        <priority>1.0</priority>
        </url>
     {% endif %}
   {% endfor %}
