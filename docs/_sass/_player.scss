@@ -1,0 +1,89 @@
+$player-height: 60px;
+
+.player {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: $player-height;
+    background: rgba(255,255,255,0.9);
+    z-index: 100;
+}
+
+.player__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.player__control {
+    font-size: $player-height - 30px;
+    line-height: $player-height;
+    margin: 0 15px;
+    padding: 0;
+    color: darken(white, 75%);
+    transition: all 100ms ease;
+    &:hover {
+        color: darken(white, 83%);
+    }
+}
+
+.player__cover {
+    line-height: $player-height;
+}
+
+.player__info-title {
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.player__info-title, .player__info-artist {
+    padding: 0.3em 1em;
+}
+
+.player__progress {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
+
+.player__progress-time {
+    font-weight: 100;
+    padding: 0 0.5em;
+    line-height: $player-height;
+}
+
+.player__progress {
+    flex: 1;
+}
+
+.progress-slider {
+    height: $player-height;
+    width: 100%;
+    position: relative;
+    padding: 10px;
+}
+
+.progress-slider__all, .progress-slider__cached, .progress-slider__current {
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.progress-slider__all {
+    width: 100%;
+    background: darken(white, 31%);
+}
+
+.progress-slider__cached {
+    width: 50%;
+    background: darken(white, 50%);
+}
+
+.progress-slider__current {
+    width: 10%;
+    background: #155799;
+    .player__progress-time {
+        color: white;
+        text-align: right;
+    }
+}

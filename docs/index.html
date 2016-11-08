@@ -14,7 +14,7 @@ layout: default
                     </h2>
                     <div class="post-list__excerpt">{{ post.excerpt }}</div>
                     {% if post.track %}
-                    <audio src="{{post.track}}" preload="none"></audio>
+                    <audio src="{{post.track}}" controls preload="none"></audio>
                     {% endif %}
                 </div>
             {% endfor %}
