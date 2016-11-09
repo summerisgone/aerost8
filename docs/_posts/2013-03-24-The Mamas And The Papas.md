@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&quot;The Mamas & The Papas&quot;"
+title: "&quot;The Mamas &amp; The Papas&quot;"
 issue: 410
 date: 2013-03-24
 excerpt: >

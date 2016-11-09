@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emerson, Lake & Palmer"
+title: "Emerson, Lake &amp; Palmer"
 issue: 217
 date: 2009-07-12
 excerpt: >

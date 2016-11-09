@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cotton Mather & &quot;I Ching&quot;"
+title: "Cotton Mather &amp; &quot;I Ching&quot;"
 issue: 590
 date: 2016-09-04
 excerpt: >

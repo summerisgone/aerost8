@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Crosby, Stills & Nash"
+title: "Crosby, Stills &amp; Nash"
 issue: 216
 date: 2009-07-05
 excerpt: >

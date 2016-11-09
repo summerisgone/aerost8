@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&quot; We're Only In It For Money&quot;"
+title: "&quot; We&apos;re Only In It For Money&quot;"
 issue: 413
 date: 2013-04-14
 excerpt: >

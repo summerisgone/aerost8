@@ -8,5 +8,6 @@ kramdown:
     hard_wrap: false
 gems:
     - jekyll-paginate
+    - jekyll-sitemap
     - jekyll-feed
 paginate: 20

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beatles' Footsteps 10 октября 2010"
+title: "Beatles&apos; Footsteps 10 октября 2010"
 issue: 282
 date: 2010-10-10
 excerpt: >

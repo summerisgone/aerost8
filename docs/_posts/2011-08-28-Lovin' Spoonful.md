@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lovin' Spoonful"
+title: "Lovin&apos; Spoonful"
 issue: 328
 date: 2011-08-28
 excerpt: >

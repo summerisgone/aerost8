@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Elvis Presley'56"
+title: "Elvis Presley&apos;56"
 issue: 104
 date: 2007-05-13
 excerpt: >

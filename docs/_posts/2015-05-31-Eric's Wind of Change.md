@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eric's Winds Of Change"
+title: "Eric&apos;s Winds Of Change"
 issue: 524
 date: 2015-05-31
 excerpt: >

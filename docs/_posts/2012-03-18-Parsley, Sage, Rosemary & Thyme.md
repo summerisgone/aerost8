@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "&quot;Parsley, Sage, Rosemary & Thyme&quot;"
+title: "&quot;Parsley, Sage, Rosemary &amp; Thyme&quot;"
 issue: 357
 date: 2012-03-18
 excerpt: >

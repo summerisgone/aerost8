@@ -22,6 +22,18 @@ excerpt: >
 {content}
 """
 
+html_escape_table = {
+    "&": "&amp;",
+    '"': "&quot;",
+    "'": "&apos;",
+    ">": "&gt;",
+    "<": "&lt;",
+}
+
+def html_escape(text):
+    """Produces entities within text."""
+    return "".join(html_escape_table.get(c,c) for c in text)
+
 def main(out_folder):
     client = MongoClient(MONGO_CONNECTION)
     cur = client[MONGO_DBNAME][MONGO_COLLECTION]
@@ -30,7 +42,7 @@ def main(out_folder):
         data = dict(
             date=issue['date'].strftime('%Y-%m-%d'),
             slug=issue.get('slug', None),
-            title=issue.get('name', None).replace('"', '&quot;'),
+            title=html_escape(issue.get('name', None)),
             url=issue.get('url', ''),
             track='' if not issue.get('url', None) else 'track: "{0}"\n'.format(issue.get('url')),
             issue=issue.get('issue', None),

@@ -5,3 +5,4 @@ pydub
 transliterate
 pymongo
 PyYAML
+bs4
