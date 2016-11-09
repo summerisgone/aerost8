@@ -4,6 +4,7 @@ import datetime
 from os.path import join
 import argparse
 import yaml
+from slugify import slugify
 
 client = MongoClient()
 MONGO_CONNECTION = 'localhost:27017'
@@ -41,7 +42,7 @@ def main(out_folder):
         long_ps = [p for p in issue.get('paragraphs') if len(p) > 80]
         data = dict(
             date=issue['date'].strftime('%Y-%m-%d'),
-            slug=issue.get('slug', None),
+            slug=slugify(issue.get('name', None)),
             title=html_escape(issue.get('name', None)),
             url=issue.get('url', ''),
             track='' if not issue.get('url', None) else 'track: "{0}"\n'.format(issue.get('url')),

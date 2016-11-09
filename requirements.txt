@@ -6,3 +6,4 @@ transliterate
 pymongo
 PyYAML
 bs4
+slugify
