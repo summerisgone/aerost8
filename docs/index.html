@@ -12,11 +12,17 @@ sitemap:
                 <div class="post-list__post">
                     <span class="post-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
                     <h2>
-                        <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                        {% if post.issue %}<span class="post-list__issue">#{{post.issue}}</span>{% endif %}
+                        <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">
+                            {{ post.title }}
+                        </a>
                     </h2>
                     <div class="post-list__excerpt">{{ post.excerpt }}</div>
                     {% if post.track %}
-                    <audio src="{{post.track}}" controls preload="none"></audio>
+                    <button class="btn btn-primary" onclick="player.urlClick('{{post.track | uri_escape}}')">
+                        <i class="fa fa-play"></i>
+                    </button>
+                    <audio src="{{post.track}}" class="post-list__audio" preload="none" />
                     {% endif %}
                 </div>
             {% endfor %}

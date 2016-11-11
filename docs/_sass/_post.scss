@@ -34,6 +34,18 @@
             }
         }
     }
+
+    .post__issue {
+        color: darken(white, 30%);
+        font-family: monospace;
+        font-weight: bold;
+    }
+
+    .post__player {
+        display: block;
+        width: 2rem;
+        height: 2rem;
+    }
 }
 
 
@@ -44,6 +56,11 @@
     }
     .post-list__post {
         margin: 2em 0;
+    }
+    .post-list__issue {
+        color: darken(white, 30%);
+        font-family: monospace;
+        font-weight: bold;
     }
     .post-list__excerpt {
         font-size: 1.65rem;

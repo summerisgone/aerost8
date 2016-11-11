@@ -1,8 +1,8 @@
 github: [metadata]
-title: Аэростат
+title: "Аэростат: Авторская программа Бориса Гребенщикова"
 url: http://aerostat.rocks
 description: цикл передач для Радио России
-keywords: Аэростат, Аквариум, БГ, Гребенщиков, Борис Гребенщиков
+keywords: Аэростат, Аквариум, БГ, Гребенщиков, Борис Гребенщиков, все выпуски
 kramdown:
     input: GFM
     hard_wrap: false
