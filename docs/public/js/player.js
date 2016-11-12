@@ -78,11 +78,26 @@ Player.prototype.setupUI = function() {
     this.progressSubject.subscribe((args) => {
         var position = args[0], duration = args[1];
         $player.find('#id_player_progress_playing').css('width', position / duration * 100 + '%');
+        var current = (position / 1000 / 60).toFixed() + ':' + (position / 1000 % 60).toFixed();
+        var total = (duration / 1000 / 60).toFixed() + ':' + (duration / 1000 % 60).toFixed();
+        $player.find('#id_player_play_time').text(current);
+        $player.find('#id_player_total_time').text(total);
     });
 };
 
-Player.prototype.urlClick = function(url) {
+Player.prototype.urlClick = function(url, el) {
     this.urlClickSubject.next(url);
+    if (el) {
+        player.statusObservable.take(1).subscribe(function(status) {
+            var $el = $(el);
+            if (status === 'pause') {
+                $el.find('i.fa').attr('class', 'fa fa-pause');
+            }
+            if (status === 'play') {
+                $el.find('i.fa').attr('class', 'fa fa-play');
+            }
+        });
+    }
 };
 
 Player.prototype.togglePause = function() {
@@ -95,6 +110,12 @@ Player.prototype.togglePause = function() {
         onready: function() {
             var player = window.player = new Player({
                 element: document.getElementById('id_player')
+            });
+            $(document).on('keypress', function(e) {
+                if (e.target.tagName.toLowerCase() === 'body' && e.keyCode === 32) {
+                    e.stopPropagation();
+                    player.togglePause();
+                }
             });
         }
     });
