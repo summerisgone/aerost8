@@ -5,7 +5,7 @@ issue: 194
 date: 2009-02-01
 excerpt: >
     Вот мы и дожились. Снова у нас священный праздник; снова Химолк - "тайное начало весны". И как и положено по древним правилам, в этот день мы всегда играем всякую очень особенную музыку.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/194-Sandy Denny (Imbolc).mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/194-sandy-denny-imbolc.mp3"
 ---
 
 послушать

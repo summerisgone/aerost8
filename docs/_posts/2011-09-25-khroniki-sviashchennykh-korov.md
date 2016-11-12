@@ -5,7 +5,7 @@ issue: 332
 date: 2011-09-25
 excerpt: >
     Про чужую музыку говорить, в общем-то, легко. Всегда можно найти или придумать какие-то новые углы зрения и интересные истории. Но что сказать про музыку, в создании которой ты принимал самое непосредственное участие?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/332-Hroniki Svjaschennyh Korov.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/332-hroniki-svjaschennyh-korov.mp3"
 ---
 
 послушать

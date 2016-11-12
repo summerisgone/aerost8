@@ -5,7 +5,7 @@ issue: 34
 date: 2006-01-08
 excerpt: >
     И хотя я собирался рассказывать вам совсем о другом, что-то повело меня, и рассказ сегодня будет о:  а, впрочем, не знаю, как и назвать это. Так что, дорогие мои братья и сестры, Бог в помощь, я начинаю свой рассказ.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/034-Mudrost' pustyni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/034-mudrost-pustyni.mp3"
 ---
 
 послушать

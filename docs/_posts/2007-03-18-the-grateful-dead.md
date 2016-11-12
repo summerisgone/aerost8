@@ -5,7 +5,7 @@ issue: 96
 date: 2007-03-18
 excerpt: >
     Здравствуйте! Какая все-таки жаль иногда берет, что у нас в России почти никто не знает саги мудрецов-анархистов Grateful Dead. Но - судя по вашим письмам - вы хотите узнать о них. Что ж - слушаюсь и повинуюсь!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/096-The Grateful Dead.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/096-the-grateful-dead.mp3"
 ---
 
 2007

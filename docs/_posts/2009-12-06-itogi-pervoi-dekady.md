@@ -5,7 +5,7 @@ issue: 238
 date: 2009-12-06
 excerpt: >
     Так живешь-живешь, и не замечаешь, как идет время. Еще совсем немного - и закончится песок в песочных часах первой декады XXI века.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/238-Itogi 1j dekady.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/238-itogi-1j-dekady.mp3"
 ---
 
 послушать

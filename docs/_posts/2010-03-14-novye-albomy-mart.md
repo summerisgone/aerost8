@@ -5,7 +5,7 @@ issue: 252
 date: 2010-03-14
 excerpt: >
     В январском номере журнала "Китайское Благовестие" сказано: "Без духовной жизни просто невозможно представить себе существование личности". Умеют же люди иногда немногими словами попасть прямо в точку.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/252-Novye Al'bomy. Mart.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/252-novye-al-bomy-mart.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 160
 date: 2008-06-08
 excerpt: >
     Не так давно индо-азиатская служба новостей сообщила, что житель одной индийской деревни вступил в брак с горой для того, чтобы получить от нее защиту от боевиков-маоистов.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/160-Zhivi, Zhivoe!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/160-zhivi-zhivoe.mp3"
 ---
 
 послушать

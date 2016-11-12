@@ -5,7 +5,7 @@ issue: 447
 date: 2013-12-08
 excerpt: >
     Мы вам тут кое-что принесли в подоле, а точнее – альбом "Аквариум Плюс". "Аквариум Плюс" – это альбом, состоящий из песен, так или иначе оставшихся за все это время не записанными в студии.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/447-Akvarium Pljus.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/447-akvarium-pljus.mp3"
 ---
 
 Здравствуйте, дорогие мои!

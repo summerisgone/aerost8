@@ -5,7 +5,7 @@ issue: 135
 date: 2007-12-16
 excerpt: >
     Рой Орбисон. Элвис Пресли говорил о нем: "величайший певец в мире". Barry Gibb из Bee Gees называл Роя "голосом Бога". А Tom Waits сказал лучше всех : "Если нужно было сделать так, чтобы девушка влюбилась в тебя, все, что для этого было нужно - это розы, колесо обозрения и Рой Орбисон".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/135-Roj Orbison.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/135-roj-orbison.mp3"
 ---
 
 послушать

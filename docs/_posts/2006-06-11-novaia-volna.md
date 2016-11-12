@@ -5,7 +5,7 @@ issue: 56
 date: 2006-06-11
 excerpt: >
     Увы мне, увы! Так стараюсь целый год, так рассказываю вам  про всякую музыку - а сам упустил целую главу из этой прекрасной книги. Ведь недаром было спето -
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/056-Novaja Volna.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/056-novaja-volna.mp3"
 ---
 
 послушать

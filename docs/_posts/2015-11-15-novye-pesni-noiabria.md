@@ -5,7 +5,7 @@ issue: 548
 date: 2015-11-15
 excerpt: >
     Как говаривал сэр Уинстон Черчилл, "становиться лучше - это меняться; быть совершенным - это меняться часто". А чтобы меняться часто, нужно слушать как можно больше новой музыки. Чем мы сегодня с Божьей помощью и займемся.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/548-Novye Pesni Nojabrja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/548-novye-pesni-nojabrja.mp3"
 ---
 
 Здравствуйте!

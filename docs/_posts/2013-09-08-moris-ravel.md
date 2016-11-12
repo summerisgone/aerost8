@@ -5,7 +5,7 @@ issue: 434
 date: 2013-09-08
 excerpt: >
     Сегодня я хочу совсем чуть-чуть послушать с вами музыку одного из величайших композиторов Франции последних двух веков - Мориса Равеля.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/434-Moris Ravel'.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/434-moris-ravel.mp3"
 ---
 
 послушать

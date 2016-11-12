@@ -5,7 +5,7 @@ issue: 305
 date: 2011-03-20
 excerpt: >
     "Нам нет необходимости страдать, лучше нас здесь пока что никого не было". Так говорил Капитан Бифхарт - а он был в курсе.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/305-Captain Beefheart.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/305-captain-beefheart.mp3"
 ---
 
 послушать

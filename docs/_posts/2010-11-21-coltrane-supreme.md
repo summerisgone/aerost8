@@ -5,7 +5,7 @@ issue: 288
 date: 2010-11-21
 excerpt: >
     Бывает, что мы с вами слушаем музыку глубоко эстетичную и высокодуховную; иногда нам удается послушать музыку священную - но редко когда бывает, что слушаешь музыку написанную и сыгранную непосредственно святым.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/288-Coltrane Supreme.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/288-coltrane-supreme.mp3"
 ---
 
 21 ноября 2010

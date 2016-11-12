@@ -5,7 +5,7 @@ issue: 66
 date: 2006-08-20
 excerpt: >
     Все люди полны желаний, только я один подобен тому, кто отказался от всего. Все люди полны света. Только я один подобен тому, кто погружен во мрак. Все люди пытливы, только я один равнодушен.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/066-Irlandskoe Ragu-2.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/066-irlandskoe-ragu-2.mp3"
 ---
 
 послушать

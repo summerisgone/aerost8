@@ -5,7 +5,7 @@ issue: 391
 date: 2012-11-11
 excerpt: >
     Люди бывают разные. Есть люди, говорящие то, что говорят все - а есть такие, что владеют удивительным даром - найти слова для того невысканного, что в душе у каждого: такие становятся мессиями.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/391-The Smiths.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/391-the-smiths.mp3"
 ---
 
 послушать

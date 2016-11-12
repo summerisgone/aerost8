@@ -5,7 +5,7 @@ issue: 535
 date: 2015-08-16
 excerpt: >
     Время от времени я впадаю в остолбенение, понимая, какое огромное количество музыки и музыкантов остается неупомянутыми в Аэростате. Но хотя море едва ли можно вычерпать чайной ложкой, кто сказал, что не нужно пытаться?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/535-More Chajnoj Lozhkoj.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/535-more-chajnoj-lozhkoj.mp3"
 ---
 
 Здравствуйте!

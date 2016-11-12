@@ -5,7 +5,7 @@ issue: 369
 date: 2012-06-10
 excerpt: >
     Когда-то в незапамятные времена прошли слухи про какую-то музыку рэгге. И вот мы искали, достали пластинку, поставили на проигрыватель - тогда еще были проигрыватели в каждом доме - и услышали вот что.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/369-Iz Zhizni Nesta R. Marli.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/369-iz-zhizni-nesta-r-marli.mp3"
 ---
 
 послушать

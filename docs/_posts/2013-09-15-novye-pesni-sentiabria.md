@@ -5,7 +5,7 @@ issue: 435
 date: 2013-09-15
 excerpt: >
     Мудрые люди рассказывают, что однажды старый серый ослик Иа-Иа стоял один-одинешенек в заросшем чертополохом уголке Леса, широко расставив передние ноги и свесив голову набок и думал о Серьезных Вещах.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/435-Novye Pesni Sentjabrja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/435-novye-pesni-sentjabrja.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 483
 date: 2014-08-17
 excerpt: >
     Как не без оснований замечал Экклезиаст, есть время разбрасывать камни, а есть время собирать их в аккуратные кучки и ждать, когда подтянется пролетариат. Есть время делать передачи о чем-то, а есть – время растекаться мыслью по растениям этого мира.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/483-Brik-O-Brak (Ponemnogu o Raznom).mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/483-brik-o-brak-ponemnogu-o-raznom.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 547
 date: 2015-11-08
 excerpt: >
     Сегодня у нас печальная передача. Из жизни ушел Борис Рубекин. И сегодня я хочу просто дать вам послушать его собственную музыку и музыку, где он проявил себя больше всего.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/547-Pamjati Borisa Rubekina.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/547-pamjati-borisa-rubekina.mp3"
 ---
 
 Здравствуйте!

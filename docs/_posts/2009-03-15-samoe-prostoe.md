@@ -5,7 +5,7 @@ issue: 200
 date: 2009-03-15
 excerpt: >
     О чем мы только не говорили за эти без одной две сотни передач; а сегодня двухсотая; и поэтому сегодня у нас будет самая лучшая музыка и самые простые слова.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/200-Samoe Prostoe.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/200-samoe-prostoe.mp3"
 ---
 
 послушать

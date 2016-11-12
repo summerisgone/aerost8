@@ -5,7 +5,7 @@ issue: 206
 date: 2009-04-26
 excerpt: >
     Сегодня у нас 26 апреля, 116-ый день года. И, похоже, что нас с вами ждет довольно легкомысленная передача.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/206-Legkomyslennyj Aerostat.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/206-legkomyslennyj-aerostat.mp3"
 ---
 
 послушать

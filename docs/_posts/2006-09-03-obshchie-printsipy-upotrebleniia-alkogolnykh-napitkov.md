@@ -5,7 +5,7 @@ issue: 68
 date: 2006-09-03
 excerpt: >
     Здравствуйте снова! После выхода альбома "Беспечный Русский Бродяга" на мою голову обрушился шквал возмущения и недоумения. Люди в замешательстве - так пить им или не пить? Метать стаканы на стол или выливать все, что стоит на столе.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/068-Obschie printsipy upotreblenija alkogol'nyh napitkov.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/068-obschie-printsipy-upotreblenija-alkogol-nyh-napitkov.mp3"
 ---
 
 3 сентября

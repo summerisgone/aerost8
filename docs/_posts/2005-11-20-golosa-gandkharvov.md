@@ -5,7 +5,7 @@ issue: 27
 date: 2005-11-20
 excerpt: >
     А уж тем более нам, совсем забывшим даже о том, что мудрецам снилось. А тем более - что им совсем даже и не снилось.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/027-Golosa Gandharvov.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/027-golosa-gandharvov.mp3"
 ---
 
 послушать

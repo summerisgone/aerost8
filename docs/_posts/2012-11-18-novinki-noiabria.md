@@ -5,7 +5,7 @@ issue: 392
 date: 2012-11-18
 excerpt: >
     Опять в мире появилась новая музыка, и снова мне дана радость познакомить вас с нею.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/392-Novinki Nojabrja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/392-novinki-nojabrja.mp3"
 ---
 
 послушать

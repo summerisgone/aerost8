@@ -5,7 +5,7 @@ issue: 293
 date: 2010-12-26
 excerpt: >
     Ждали праздника, и вот - он наступил. Позавчера мир праздновал Рождество по католическому правилу, а через 12 дней будем праздновать по нашему, Православному.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/293-S Rozhdestvom!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/293-s-rozhdestvom.mp3"
 ---
 
 послушать

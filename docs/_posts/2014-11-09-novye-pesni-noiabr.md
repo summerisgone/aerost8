@@ -5,7 +5,7 @@ issue: 495
 date: 2014-11-09
 excerpt: >
     Если подумать, то нельзя не удивиться - до чего же нам повезло. Вот раньше играл себе Букстехюде у себя в церкви на органе, и чтобы его послушать, придилось за сотни верст добираться до него, ну и все такое.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/495-Novye Pesni. Nojabr'.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/495-novye-pesni-nojabr.mp3"
 ---
 
 Здравствуйте!

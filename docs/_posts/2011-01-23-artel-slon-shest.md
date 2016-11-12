@@ -5,7 +5,7 @@ issue: 297
 date: 2011-01-23
 excerpt: >
     В музыкальном мире планеты Земля нет и никогда не было ничего, даже отдаленно похожего на музыкальную коммуну под названием Elephant 6 - или "Слон Шесть".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/297-Artel' Slon 6.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/297-artel-slon-6.mp3"
 ---
 
 послушать

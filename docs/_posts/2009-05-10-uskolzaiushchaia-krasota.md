@@ -5,7 +5,7 @@ issue: 208
 date: 2009-05-10
 excerpt: >
     Был когда-то такой фильм "Ускользающая Красота". Фильм-то - Бог с ним, но уж больно хорошо название. Очень точное. Красота и в самом деле - всегда ускользает от нас. Ее не взять в руки, не попробовать на зуб; стоит протянуть к ней пальцы, как она ускользает.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/208-Uskol'zajuschaja krasota.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/208-uskol-zajuschaja-krasota.mp3"
 ---
 
 послушать

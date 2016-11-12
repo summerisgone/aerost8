@@ -5,7 +5,7 @@ issue: 393
 date: 2012-11-25
 excerpt: >
     Приятно иногда почувствовать себя Стариком Хоттабычем - или Гэндалфом - и сказать: "Вы этого хотели? Пожалуйста". Сегодня день выполнения заявок из ваших писем.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/393-Opjat' Zajavki.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/393-opjat-zajavki.mp3"
 ---
 
 послушать

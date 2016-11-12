@@ -5,7 +5,7 @@ issue: 457
 date: 2014-02-16
 excerpt: >
     Уильям Блэйк сказал однажды "То, что любит, становится бесконечным". А Блэйк точно знал, о чем он говорит – не зря он с детских лет созерцал ангелов.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/457-Akusticheskie Voiny 60-h.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/457-akusticheskie-voiny-60-h.mp3"
 ---
 
 Здравствуйте!

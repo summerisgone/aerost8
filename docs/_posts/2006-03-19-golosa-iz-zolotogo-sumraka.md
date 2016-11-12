@@ -5,7 +5,7 @@ issue: 44
 date: 2006-03-19
 excerpt: >
     Здравствуйте! Сегодня 19 марта - как раз подходящий день, для того, чтобы хозяйским глазом вновь оглядеть закрома золотого века. Как говорил Винни-Пух: "Что ни говори, а уже пора обедать".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/044-Golosa Iz Zolotogo Sumraka.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/044-golosa-iz-zolotogo-sumraka.mp3"
 ---
 
 послушать

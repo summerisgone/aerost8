@@ -5,7 +5,7 @@ issue: 524
 date: 2015-05-31
 excerpt: >
     Сегодня, на пороге лета, я хочу познакомить вас с одним альбомом, который когда-то произвел на меня большое впечатление, потом оказался надолго забыт, а в наши дни, судя по всему, снова может пригодиться
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/524-Eric's Wind of Change.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/524-eric-s-wind-of-change.mp3"
 ---
 
 Здравствуйте!

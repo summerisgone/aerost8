@@ -5,7 +5,7 @@ issue: 204
 date: 2009-04-12
 excerpt: >
     В древней русской народной песне сказано: "Ух ты, ах ты, все мы космонавты". Как всегда, седая старина оказывается прозорливее сегодняшнего дня.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/204-Den' Kosmonavtiki.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/204-den-kosmonavtiki.mp3"
 ---
 
 послушать

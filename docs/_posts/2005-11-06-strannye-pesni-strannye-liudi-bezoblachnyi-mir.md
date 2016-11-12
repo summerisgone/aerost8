@@ -5,7 +5,7 @@ issue: 25
 date: 2005-11-06
 excerpt: >
     Это был известный американский артист по имени Tiny Tim. Родители очень переживали за него, но двухметровое чадо выросло крайне одаренным, особенно, когда запело фальцетом.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/025-Strannye pesni, strannye ljudi, bezoblachnyj mir.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/025-strannye-pesni-strannye-ljudi-bezoblachnyj-mir.mp3"
 ---
 
 послушать

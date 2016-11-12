@@ -5,7 +5,7 @@ issue: 232
 date: 2009-10-25
 excerpt: >
     Как говорится: "за окном золотая осень, а нам пора проникнуть в самую суть вещей". Ну, что ж, раз в суть вещей, тогда самое время вспомнить об Упанишадах.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/232-Katha Upanishada.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/232-katha-upanishada.mp3"
 ---
 
 послушать

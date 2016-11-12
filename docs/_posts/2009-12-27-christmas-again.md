@@ -5,7 +5,7 @@ issue: 241
 date: 2009-12-27
 excerpt: >
     А теперь - в продолжение прошлого Аэростата - еще одна заявка; зато на целую передачу. Письмо за письмом приходит? и все упоминают рождественскую передачу как само собой разумеющееся. Я, признаюсь, рад этому от всего сердца.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/241-Christmas Again!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/241-christmas-again.mp3"
 ---
 
 послушать

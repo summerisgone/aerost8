@@ -5,7 +5,7 @@ issue: 578
 date: 2016-06-12
 excerpt: >
     Сегодня я хочу немного рассказать вам про первый двойной альбом в истории рок-музыки, шедевр Боба Дилана "Blonde On Blonde".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/578-''Blonde on Blonde''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/578-blonde-on-blonde.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 454
 date: 2014-01-26
 excerpt: >
     Сегодня я предлагаю вам вместе со мной отправиться в путешествие, в котором, проносясь на огромной скорости, мы сможем краем глаза заглянуть в другие миры.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/454-Miry Ashkenazi.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/454-miry-ashkenazi.mp3"
 ---
 
 Здравствуйте!

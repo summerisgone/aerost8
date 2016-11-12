@@ -5,7 +5,7 @@ issue: 14
 date: 2005-08-21
 excerpt: >
     Начало 80-х. Страна Желтого Дьявола за океаном. Отгремела панковская и пост-панковская война, все декорации прошлого оказались снесены и открылась неприглядная действительность. Все скуплено и продано, а на революции - как это всегда бывает - нажило деньги большое количество толстых дядек.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/014-Al'ternativa za okeanom ili Iskusstvo zhit' v korporativnom pejzazhe.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/014-al-ternativa-za-okeanom-ili-iskusstvo-zhit-v-korporativnom-pejzazhe.mp3"
 ---
 
 21 августа 2005

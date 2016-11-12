@@ -5,7 +5,7 @@ issue: 374
 date: 2012-07-15
 excerpt: >
     Да что же это такое! Не успели мы с вами послушать всякую новую музыку, вышедшую в начале лета, как уже набежало еще на передачу нововышедшей музыки. Но что делать? - взялся на гуж, не говори, что не дюж. Итак, сегодня мы снова слушаем новости с полей гармонии.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/374-Novosti s Polej Garmonii.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/374-novosti-s-polej-garmonii.mp3"
 ---
 
 послушать

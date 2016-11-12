@@ -5,7 +5,7 @@ issue: 19
 date: 2005-09-25
 excerpt: >
     Наступила осень - время созревания плодов. Селяне в праздничных нарядах наслаждаются сбором урожая. Посмотрим же, какие плоды принесло нам это лето, что нового появилось у нас в корзинах?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/019-Pora sbora urozhaja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/019-pora-sbora-urozhaja.mp3"
 ---
 
 запись на сайте Радио России

@@ -5,7 +5,7 @@ issue: 335
 date: 2011-10-16
 excerpt: >
     Было время - я был абсолютно зачарован. Зачарован музыкой одной группы. Они, наверное, казались мне богами - и когда я слушал их, мне представлялось, что это лично ко мне обращается Вселенная.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/335-Eurythmics.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/335-eurythmics.mp3"
 ---
 
 послушать

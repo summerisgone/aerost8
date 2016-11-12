@@ -5,7 +5,7 @@ issue: 61
 date: 2006-07-16
 excerpt: >
     Здравствуйте! Осмелюсь процитировать вам кусочек из книги "Трое в Одной Лодке" британского писателя Джером К. Джерома.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/061-Irlandskoe Ragu.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/061-irlandskoe-ragu.mp3"
 ---
 
 послушать

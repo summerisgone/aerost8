@@ -5,7 +5,7 @@ issue: 263
 date: 2010-05-30
 excerpt: >
     Однажды великий натуралист Чарльз Дарвин шел по улице и вдруг задался вопросом: "Чего в мире больше - страдания или счастья, хорош ли мир в целом или плох?"
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/263-Darwin Diverse.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/263-darwin-diverse.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 395
 date: 2012-12-09
 excerpt: >
     Все великие люди, выбирая между городом и деревней, предпочитали деревню. Жан Жак Руссо на все лады нахваливал идею "благородного дикаря", Пушкин, гуляя по сельским просторам, констатировал:
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/395-Irlandskoe Ragu 12,12.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/395-irlandskoe-ragu-1212.mp3"
 ---
 
 послушать

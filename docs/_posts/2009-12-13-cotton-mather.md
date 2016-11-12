@@ -5,7 +5,7 @@ issue: 239
 date: 2009-12-13
 excerpt: >
     Иногда живешь и думаешь: "Как же это мне повезло, что я живу именно в такой момент земной истории, когда вокруг создается такая прекрасная музыка".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/239-Cotton Mather.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/239-cotton-mather.mp3"
 ---
 
 послушать

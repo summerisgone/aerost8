@@ -5,7 +5,7 @@ issue: 129
 date: 2007-11-04
 excerpt: >
     "Что было, то и будет; и что делалось, то и будет делаться, и нет ничего нового под солнцем. Бывает нечто, о чем говорят: "Смотри, вот, это новое"; но это было уже в веках, бывших прежде нас.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/129-Ekkleziast TOP 10.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/129-ekkleziast-top-10.mp3"
 ---
 
 послушать

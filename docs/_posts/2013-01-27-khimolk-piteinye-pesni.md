@@ -5,7 +5,7 @@ issue: 402
 date: 2013-01-27
 excerpt: >
     И вроде бы время солнцеворота случилось больше месяца назад и с тех пор день начал прибавляться, ан нет - темное время конец января, темное; но как пел когда-то Майк "час перед рассветом - самый темный час"; и значит скоро рассвет.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/402-Himolk - Pitejnye Pesni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/402-himolk-pitejnye-pesni.mp3"
 ---
 
 послушать

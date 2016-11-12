@@ -5,7 +5,7 @@ issue: 29
 date: 2005-12-04
 excerpt: >
     Как-то мы давно не слушали этнической музыки - а ведь говорят, что именно она - магистральное направление сегодняшнего дня и ворота в грядущее. Хотя - что бы они не говорили, хорошую музыку этим все равно не испортить.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/029-Etno Snova Na Kone.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/029-etno-snova-na-kone.mp3"
 ---
 
 послушать

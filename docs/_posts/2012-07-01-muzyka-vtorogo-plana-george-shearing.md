@@ -5,7 +5,7 @@ issue: 372
 date: 2012-07-01
 excerpt: >
     Сегодня хочется поиграть вам музыку, которую в наше время не так уж часто услышишь по радио.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/372-Muzyka Vtorogo Plana (George Shearing).mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/372-muzyka-vtorogo-plana-george-shearing.mp3"
 ---
 
 послушать

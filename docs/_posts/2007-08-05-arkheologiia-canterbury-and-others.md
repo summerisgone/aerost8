@@ -5,7 +5,7 @@ issue: 116
 date: 2007-08-05
 excerpt: >
     Бывает так - живет себе некая цивилизация, живет-живет; вдруг - не успеешь моргнуть глазом - пролетит какая-нибудь пара тысяч лет, и - нет цивилизации, как корова языком слизнула. Осталась пустыня, и где-то под заносами песка - два-три черепка.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/116-Arheologija - Canterbury And Others.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/116-arheologija-canterbury-and-others.mp3"
 ---
 
 послушать

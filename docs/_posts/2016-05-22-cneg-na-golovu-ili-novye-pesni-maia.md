@@ -5,7 +5,7 @@ issue: 575
 date: 2016-05-22
 excerpt: >
     Пока мы философствовали, на грядках вселенской души выросла новая музыка. Прислушиванием к ней мы сегодня и займемся.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/575-Cneg na Golovu Ili Novye Pesni Maja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/575-cneg-na-golovu-ili-novye-pesni-maja.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 278
 date: 2010-09-12
 excerpt: >
     Ну, что это такое, в самом деле? Только хочу вам поставить кого-нибудь, вдруг вспоминаю - ведь я его уже ставил вам когда-то.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/278-Neigrannoe.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/278-neigrannoe.mp3"
 ---
 
 послушать

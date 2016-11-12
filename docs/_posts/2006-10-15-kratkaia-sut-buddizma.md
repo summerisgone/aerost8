@@ -5,7 +5,7 @@ issue: 74
 date: 2006-10-15
 excerpt: >
     Здравствуйте! Как-то раз мы говорили о суфиях; потом немного затронули индуизм. Поговорим-ка мы сегодня о буддизме - а то меня часто спрашивают, и выясняется, что слухов о нем ходит много, но очень кто доподлинно что-то знает.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/074-Kratkaja Sut' Buddizma.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/074-kratkaja-sut-buddizma.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 24
 date: 2005-10-30
 excerpt: >
     Внимание, внимание! На улице Соуэн. Желательно не выходить из дома после наступления темноты, иначе вы рискуете быть утянутыми в холмы.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/024-Samajn (Souen).mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/024-samajn-souen.mp3"
 ---
 
 запись на сайте Радио России

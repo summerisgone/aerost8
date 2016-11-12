@@ -5,7 +5,7 @@ issue: 155
 date: 2008-05-04
 excerpt: >
     У нас - окрестности весеннего праздника Белтайна. Весна, друзья мои! - весна, переходящая в лето. Самое время послушать что-нибудь невероятное. Например - "Невероятную Струнную Группу".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/155-Incredible String Band.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/155-incredible-string-band.mp3"
 ---
 
 послушать

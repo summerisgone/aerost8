@@ -5,7 +5,7 @@ issue: 589
 date: 2016-08-28
 excerpt: >
     За 11 лет существования Аэростата мы успели послушать много музыки. Но в десятке лучших групп золотого века есть группа, о которой мы толком не говорили. Да, были Beatles и Stones, Who, Kinks, Animals, Traffic, Cream, Hollies... ну? А еще? Ну, конечно - великие, блестящие, неповторимые и полностью забытые - The Small Faces.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/589-The Small Faces.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/589-the-small-faces.mp3"
 ---
 
 Здравствуйте!

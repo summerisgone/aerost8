@@ -5,7 +5,7 @@ issue: 460
 date: 2014-03-09
 excerpt: >
     Пришла весна. Снова в закромах появились песни с только что вышедших альбомов, и снова есть сегодняшняя музыка, а значит жизнь идет, и мы можем попробовать сегодняшний день на вкус.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/460-Novye Pesni Marta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/460-novye-pesni-marta.mp3"
 ---
 
 Здравствуйте!

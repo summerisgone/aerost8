@@ -5,7 +5,7 @@ issue: 223
 date: 2009-08-23
 excerpt: >
     EarSchplittenLoudenBoomer... как много для нашего сердца слилось в этом звуке; в какие дали зовет, какие обещает цвета... Ах! EarSchplittenLoudenBoomer!!!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/223-Ears Splitting Louden Boomer.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/223-ears-splitting-louden-boomer.mp3"
 ---
 
 послушать

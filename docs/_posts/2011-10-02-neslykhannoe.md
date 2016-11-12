@@ -5,7 +5,7 @@ issue: 333
 date: 2011-10-02
 excerpt: >
     Как говорил Иоанн Армавирский: "Если все время заниматься старым, откуда же возьмется новое"? Что ж, попробуем сегодня слушать тех, о ком мы еще ничего не знаем.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/333-Neslyhannoe.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/333-neslyhannoe.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 488
 date: 2014-09-21
 excerpt: >
     Как же удивителен феномен музыки. Казалось бы - всего семь нот, а сколько ни черпай из этого котла, музыки все не убавляется. Вот и сегодня - на целую передачу набралось имен, которые мы никогда не слышали.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/488-Novye Imena.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/488-novye-imena.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 414
 date: 2013-04-21
 excerpt: >
     Часто меня спрашивают по поводу моего интереса к Востоку. Как ответить на этот вопрос? Не знаю; но наверное, как советовал Пуаро, начинать стоит с начала. А началось все, как оно и положено - с музыки.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/414-Puteshestvie na Vostok.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/414-puteshestvie-na-vostok.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 180
 date: 2008-10-26
 excerpt: >
     Сегодня мне представляется удивительная возможнось проиграть вам один из самых уникальных альбомов в истории человечества.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/180-Rock Bottom.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/180-rock-bottom.mp3"
 ---
 
 26 октября 2008

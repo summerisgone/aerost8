@@ -5,7 +5,7 @@ issue: 103
 date: 2007-05-06
 excerpt: >
     Сегодня я посвящаю передачу памяти Ильи Кормильцева - лучшего поэта русского рока.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/103-Pamjati Il'i Kormil'tseva.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/103-pamjati-il-i-kormil-tseva.mp3"
 ---
 
 послушать

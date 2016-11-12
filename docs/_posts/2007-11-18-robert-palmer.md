@@ -5,7 +5,7 @@ issue: 131
 date: 2007-11-18
 excerpt: >
     Даже если бы на земле не существовало слова "джентльмен", есть люди, ради которых его стоило бы придумать.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/131-Robert Palmer.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/131-robert-palmer.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 477
 date: 2014-07-06
 excerpt: >
     Июльская страда в разгаре. И поэтому сегодня мы снова можем пройтись по бахче, проверим наощупь урожай новых альбомов и узнаем из них – что же происходит сегодня в мире. А теперь пристегните ремни.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/477-Novye Al'bomy Ijulja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/477-novye-al-bomy-ijulja.mp3"
 ---
 
 Здравствуйте!

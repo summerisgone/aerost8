@@ -5,7 +5,7 @@ issue: 545
 date: 2015-10-25
 excerpt: >
     Спасибо вам! Я был так потрясен, не мог не восхититься вашей реакцией на недавнюю передачу со стихами Алена Боскэ. И поэтому сегодня почитаю вам стихи еще одного поэта, французского поэта - Поля Элюара.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/545-Stihi Polja Eljuara.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/545-stihi-polja-eljuara.mp3"
 ---
 
 Здравствуйте, дорогие мои!

@@ -5,7 +5,7 @@ issue: 269
 date: 2010-07-11
 excerpt: >
     Бывает, что заходит речь о чудесах. Но что такое - чудеса? Как сказать: что чудо, а что - не чудо?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/269-Siddhi i Chudesa.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/269-siddhi-i-chudesa.mp3"
 ---
 
 послушать

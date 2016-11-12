@@ -5,7 +5,7 @@ issue: 82
 date: 2006-12-10
 excerpt: >
     А бывает так, что человек теряет одновременно и совесть, и честь, и нисколько по этому поводу не переживает.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/082-Tom Waits Siroty i vse-vse-vse.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/082-tom-waits-siroty-i-vse-vse-vse.mp3"
 ---
 
 послушать

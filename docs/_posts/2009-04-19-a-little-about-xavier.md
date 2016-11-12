@@ -5,7 +5,7 @@ issue: 205
 date: 2009-04-19
 excerpt: >
     Поздравляю вас всех со светлым праздником Пасхи! А раз со светлым, то и говорить будем про светлое.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/205-A Little about Xavier.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/205-a-little-about-xavier.mp3"
 ---
 
 послушать

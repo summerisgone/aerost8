@@ -5,7 +5,7 @@ issue: 377
 date: 2012-08-05
 excerpt: >
     Вот и отгремел праздник урожая; добрый народ разошелся по своим делам. Ну, и что же нам принес нам август?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/377-Urozhaj Nachala Avgusta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/377-urozhaj-nachala-avgusta.mp3"
 ---
 
 послушать

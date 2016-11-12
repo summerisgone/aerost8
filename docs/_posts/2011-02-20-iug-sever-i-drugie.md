@@ -5,7 +5,7 @@ issue: 301
 date: 2011-02-20
 excerpt: >
     Иногда наступает время поступать без всякого соответствия с логикой: просто делать то, что подсказывает сердце. Не зря же говорил кто-то из великих: "Единственное правило в творчестве - не следовать никаким правилам".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/301-Jug, Sever i Drugie.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/301-jug-sever-i-drugie.mp3"
 ---
 
 послушать

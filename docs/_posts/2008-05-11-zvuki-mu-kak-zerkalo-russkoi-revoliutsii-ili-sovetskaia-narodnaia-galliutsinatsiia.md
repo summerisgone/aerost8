@@ -5,7 +5,7 @@ issue: 156
 date: 2008-05-11
 excerpt: >
     Вот о том у нас и пойдет сегодня речь: о коте, который говорит сказки, о лешем... В общем, о мифическом в нашей жизни; или другими словами - о московской группе "Звуки Му".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/156-Zvuki Mu kak Zerkalo Russkoj Revoljutsii ili Sovetskaja Narodnaja Galljutsinatsija.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/156-zvuki-mu-kak-zerkalo-russkoj-revoljutsii-ili-sovetskaja-narodnaja-galljutsinatsija.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 69
 date: 2006-09-10
 excerpt: >
     Слава Богу - мы не классики и, в отличие от них, у нас есть основания глядеть из кустов весело. В компьютере появилось много новой музыки, которой хочется с вами поделиться.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/069-Novye al'bomy.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/069-novye-al-bomy.mp3"
 ---
 
 послушать

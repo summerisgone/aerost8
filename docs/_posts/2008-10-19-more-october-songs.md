@@ -5,7 +5,7 @@ issue: 179
 date: 2008-10-19
 excerpt: >
     Вот на прошлой неделе я начал играть вам вам всякую -только что вышедшую - музыку, и как-то так этим увлекся, что теперь меня действительно не остановить. Столько всего набралось нового, что не влезает в одну передачу.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/179-More October Songs.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/179-more-october-songs.mp3"
 ---
 
 19 октября 2008

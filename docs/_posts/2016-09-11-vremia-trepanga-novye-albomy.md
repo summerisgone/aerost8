@@ -5,7 +5,7 @@ issue: 591
 date: 2016-09-11
 excerpt: >
     На днях в новостной ленте можно было прочесть, что ряд религиозных деятелей не так давно обратился к властям всего мира с требованием запретить музыку и другие искусства.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/591-Vremja Trepanga - Novye Al'bomy.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/591-vremja-trepanga-novye-al-bomy.mp3"
 ---
 
 Здравствуйте!

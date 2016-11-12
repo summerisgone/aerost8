@@ -5,7 +5,7 @@ issue: 167
 date: 2008-07-27
 excerpt: >
     "Повстречали мы раз с Грубиным жуткого забулдыгу. Угостили его шампанским. Забулдыга сказал: "Третий раз в жизни их пью!"
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/167-Omar H. H. Hajjam.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/167-omar-h-h-hajjam.mp3"
 ---
 
 послушать

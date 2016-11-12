@@ -5,7 +5,7 @@ issue: 225
 date: 2009-09-06
 excerpt: >
     Здравствуйте! Начался школьный год, а значит нам пора поговорить о том, чему в школах не учат, хотя очень было бы хорошо, если бы учили.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/225-Chemu ne uchat v shkole.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/225-chemu-ne-uchat-v-shkole.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 586
 date: 2016-08-07
 excerpt: >
     На прошлой неделе мы праздновали Люнассад, праздник урожая. Так давайте же сегодня взглянем - каким урожаем собирается порадовать нас осень.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/586-Novye Pesni Avgusta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/586-novye-pesni-avgusta.mp3"
 ---
 
 Здравствуйте!

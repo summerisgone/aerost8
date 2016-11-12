@@ -5,7 +5,7 @@ issue: 427
 date: 2013-07-21
 excerpt: >
     Сегодня у меня снова набралось неслыханной музыки Золотого Века на целую передачу. Откуда только она берется?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/427-60-e Snova na Kone.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/427-60-e-snova-na-kone.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 43
 date: 2006-03-12
 excerpt: >
     Здравствуйте! Все мы знаем, что жизнь в этом теле коротка, и у нас нет времени тратить ее по пустякам. Самое время проникнуть в тайны бытия. А как это сделать лучше всего?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/043-Mark Bolan.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/043-mark-bolan.mp3"
 ---
 
 послушать

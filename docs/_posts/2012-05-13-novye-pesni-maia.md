@@ -5,7 +5,7 @@ issue: 365
 date: 2012-05-13
 excerpt: >
     Однажды ирландский поэт Шеймас Хини шел по улице маленького городка: то ли это был Кэстлдоусон, то ли Тумбридж - сейчас уже сложно сказать - как что-то заставило его остановиться и сказать такие слова:
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/365-Novye Pesni Maja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/365-novye-pesni-maja.mp3"
 ---
 
 послушать

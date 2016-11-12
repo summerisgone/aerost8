@@ -5,7 +5,7 @@ issue: 557
 date: 2016-01-17
 excerpt: >
     Время от времени вы присылаете мне письма, и в некоторых письмах вы просите рассказать историю записи нашего альбома "Акустика".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/557-Istorija ''Akustiki''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/557-istorija-akustiki.mp3"
 ---
 
 Здравствуйте!

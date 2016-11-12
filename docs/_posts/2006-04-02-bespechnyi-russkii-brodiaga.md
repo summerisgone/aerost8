@@ -5,7 +5,7 @@ issue: 46
 date: 2006-04-02
 excerpt: >
     Начиная с самого первого дня моего вещания на радио, мне все время идут письма с просьбами поставить песни Аквариума. И доселе я никогда не делал этого по вполне понятным этическим причина: я как радиоведущий считаю безнравственным рекламировать группу, в которой сам же играю и пою.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/046-Bespechnyj Russkij Brodjaga.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/046-bespechnyj-russkij-brodjaga.mp3"
 ---
 
 послушать

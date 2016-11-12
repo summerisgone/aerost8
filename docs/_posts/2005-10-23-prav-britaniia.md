@@ -5,7 +5,7 @@ issue: 23
 date: 2005-10-23
 excerpt: >
     И научили; применительно к истории популярной музыки конца XXго века, все, кто хоть немного этим интересовался, знают, что в 90е годы Британия опять стала ужасно модной, и в ней происходил Бритпоп.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/023-''Prav', Britanija!''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/023-prav-britanija.mp3"
 ---
 
 запись на сайте Радио России

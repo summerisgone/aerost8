@@ -5,7 +5,7 @@ issue: 159
 date: 2008-06-01
 excerpt: >
     Каждый раз перед тем, как делать новую передачу, я долго брожу по полям и лесам в глубокой задумчивости - чем же на сей раз мне вас порадовать?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/159-Sila Chardasha.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/159-sila-chardasha.mp3"
 ---
 
 послушать

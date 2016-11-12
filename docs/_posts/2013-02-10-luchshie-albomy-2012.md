@@ -5,7 +5,7 @@ issue: 404
 date: 2013-02-10
 excerpt: >
     По традиции, идущей еще со времен преподобного Паисия Пчельника, сразу после Нового Года во всех музыкальных журналах принято публиковать списки лучших альбомов прошедшего года.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/404-Luchshie Al'bomy 2012.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/404-luchshie-al-bomy-2012.mp3"
 ---
 
 послушать

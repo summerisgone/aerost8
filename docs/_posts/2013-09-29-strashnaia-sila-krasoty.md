@@ -5,7 +5,7 @@ issue: 437
 date: 2013-09-29
 excerpt: >
     Иногда бывает, что на закате в небе вдруг появляется сияющая картина, некое подобие пейзажа с башнями, замками, лесами. Видишь его – и сердце щемит от красоты этого вида и какого-то чувства разлуки, назвать которую нет слов.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/437-Strashnaja Sila Krasoty.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/437-strashnaja-sila-krasoty.mp3"
 ---
 
 послушать

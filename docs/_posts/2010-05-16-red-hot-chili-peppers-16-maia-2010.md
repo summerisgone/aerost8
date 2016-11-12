@@ -5,7 +5,7 @@ issue: 261
 date: 2010-05-16
 excerpt: >
     Что-то уже давно мы все слушаем музыку созерцательного и нравоучительного плана. Не пора ли нам встряхнуться?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/261-Red Hot Chili Peppers.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/261-red-hot-chili-peppers.mp3"
 ---
 
 послушать

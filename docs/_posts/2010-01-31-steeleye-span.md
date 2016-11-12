@@ -5,7 +5,7 @@ issue: 246
 date: 2010-01-31
 excerpt: >
     И вновь у нас сегодня праздник Химолк, день поворота зимы к весне; это так, даже если, оглядевшись вокруг, этого можно сразу не заметить.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/246-Steeleye Span.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/246-steeleye-span.mp3"
 ---
 
 послушать

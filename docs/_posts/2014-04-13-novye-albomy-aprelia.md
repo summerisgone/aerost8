@@ -5,7 +5,7 @@ issue: 465
 date: 2014-04-13
 excerpt: >
     Сегодня мы посвятим передачу обозрению нововышедших альбомов и просто новой музыки. И начнем с малоизвестных, но уже заслуживающих всяческого уважения психоделических фолк-рокеров из города Бостона группы Quilt.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/465-Novye Al'bomy Aprelja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/465-novye-al-bomy-aprelja.mp3"
 ---
 
 Здравствуйте!

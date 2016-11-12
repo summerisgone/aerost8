@@ -5,7 +5,7 @@ issue: 124
 date: 2007-09-30
 excerpt: >
     Здравствуйте! Столько лет мы говорим о музыке и, в конце концов, мне самому стало интересно - а откуда же пошла европейская музыка?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/124-Muzyka Srednih Vekov.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/124-muzyka-srednih-vekov.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 283
 date: 2010-10-17
 excerpt: >
     Сегодня я расскажу вам волшебную историю про то, как один человек вывел за руку из забвения музыку целого континента (ну, или полуконтинента) - и что ему за это было.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/283-Graceland.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/283-graceland.mp3"
 ---
 
 послушать

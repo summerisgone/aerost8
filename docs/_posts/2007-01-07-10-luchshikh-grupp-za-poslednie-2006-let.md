@@ -5,7 +5,7 @@ issue: 86
 date: 2007-01-07
 excerpt: >
     Здравствуйте! Я поздравляю всех с наступающим православным Рождеством! А в такой праздник, как мы уже говорили, принято делиться самым лучшим.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/086-Nashe Rozhdestvo.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/086-nashe-rozhdestvo.mp3"
 ---
 
 послушать

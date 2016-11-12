@@ -5,7 +5,7 @@ issue: 346
 date: 2012-01-01
 excerpt: >
     В одной мудрой книге сказано: в первый день Нового года люди как бы настраивают свою душу как музыкальный инструмент - и этот лад может звучать в нас весь год; определять то, что мы делаем, и то, как мы видим мир.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/346-S Novym Godom!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/346-s-novym-godom.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 125
 date: 2007-10-07
 excerpt: >
     Иногда возникает вопрос: А счесть ли алмазов в каменных пещерах? Как один, сделаем шаг вперед и скажем от всего сердца: "Нет, никогда"!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/125-Vkus Vremeni ili Chto Esche.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/125-vkus-vremeni-ili-chto-esche.mp3"
 ---
 
 7 октября 2007

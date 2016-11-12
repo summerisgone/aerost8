@@ -5,7 +5,7 @@ issue: 322
 date: 2011-07-17
 excerpt: >
     Сегодня - самая середина лета. Стоит прислушаться - не принесло ли это лето нам каких-нибудь плодов, которые стоило бы вкусить с целью значительного улучшения жизни. Чу! Так что у нас там?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/322-Zvuki Etogo Leta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/322-zvuki-etogo-leta.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 219
 date: 2009-07-26
 excerpt: >
     Почти месяц мы раскапывали сияющие глубины истории музыки. Не пора ли вернуться в сегодняшний день?.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/219-Novye Zvuki Leta '09.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/219-novye-zvuki-leta-09.mp3"
 ---
 
 послушать

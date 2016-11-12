@@ -5,7 +5,7 @@ issue: 115
 date: 2007-07-29
 excerpt: >
     Здравствуйте! Послезавтра у нас Люнассад, праздник урожая. В этот день в честь бога Лугха положено доставать самое ценное, самое важное, самое-самое и делиться со всеми...
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/115-Silly Wizard.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/115-silly-wizard.mp3"
 ---
 
 послушать

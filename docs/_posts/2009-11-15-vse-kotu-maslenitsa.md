@@ -5,7 +5,7 @@ issue: 235
 date: 2009-11-15
 excerpt: >
     Недавно мы справлялись с осенним дефицитом положительных эмоций при помощи музыки южноафриканского коллектива Juluka. Так что же нам, за хорошим настроением все время ходить в Африку?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/235-Vse Kotu Maslenitsa.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/235-vse-kotu-maslenitsa.mp3"
 ---
 
 15 ноября 2009

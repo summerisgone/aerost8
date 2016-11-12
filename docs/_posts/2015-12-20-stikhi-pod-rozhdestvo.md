@@ -5,7 +5,7 @@ issue: 553
 date: 2015-12-20
 excerpt: >
     Как говорили древние китайцы - не говорите, если это не изменяет тишину к лучшему. Золотые слова - поэтому сегодня можно (вместо того, чтобы говорить) почитать рождественские стихи и послушать рождественскую музыку.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/553-Stihi pod Rozhdestvo.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/553-stihi-pod-rozhdestvo.mp3"
 ---
 
 Здравствуйте!

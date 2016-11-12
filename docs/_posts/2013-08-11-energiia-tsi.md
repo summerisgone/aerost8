@@ -5,7 +5,7 @@ issue: 430
 date: 2013-08-11
 excerpt: >
     Сегодня пришло время поговорить о главном: о том, на чем все держится, за счет чего существует, о жизненной силе, о энергии, делающей живой все Бытие.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/430-Energija Tsi.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/430-energija-tsi.mp3"
 ---
 
 послушать

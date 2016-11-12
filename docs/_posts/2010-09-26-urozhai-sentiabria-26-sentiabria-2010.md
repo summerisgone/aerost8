@@ -5,7 +5,7 @@ issue: 280
 date: 2010-09-26
 excerpt: >
     В какие, однако, плодотворные времена мы живем! Совсем недавно, вроде бы, я посвятил целую передачу только что вышедшим альбомам. Не успело пройти и полутора месяцев - у нас уже новые снопы осеннего урожая.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/280-Urozhaj Sentjabrja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/280-urozhaj-sentjabrja.mp3"
 ---
 
 послушать

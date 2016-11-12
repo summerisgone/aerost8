@@ -5,7 +5,7 @@ issue: 504
 date: 2015-01-11
 excerpt: >
     Чтобы войти в курс дела и проникнуться духом сегодняшнего дня, предлагаю в бодром рабочем темпе пробежаться по новой музыке, вышедшей за последние недели.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/504-Novaja Muzyka.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/504-novaja-muzyka.mp3"
 ---
 
 Здравствуйте!

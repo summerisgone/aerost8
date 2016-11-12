@@ -5,7 +5,7 @@ issue: 530
 date: 2015-07-12
 excerpt: >
     Лето. В Петербурге еще даже не закончились белые ночи. Самое время, на мой взгляд, подумать о том, что происходит в музыке наших друзей и коллег в Петербурге.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/530-Novoe u Druzej v Peterburge.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/530-novoe-u-druzej-v-peterburge.mp3"
 ---
 
 Здравствуйте!

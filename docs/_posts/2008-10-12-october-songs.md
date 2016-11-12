@@ -5,7 +5,7 @@ issue: 178
 date: 2008-10-12
 excerpt: >
     Сегодня мне с утра вспомнились слова одного великого мудреца: "Только слияние с первородным хаосом может помочь (благородному мужу) смирить свое сердце и молча переносить открытые его взору бездны".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/178-October Songs.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/178-october-songs.mp3"
 ---
 
 12 октября 2008

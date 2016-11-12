@@ -5,7 +5,7 @@ issue: 10
 date: 2005-07-24
 excerpt: >
     Что такое музыка? В чем ее цель и предназначение? Почему последовательность звуков разных тембров заставляет нас плакать или восторгаться?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/010-Magija muzyki.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/010-magija-muzyki.mp3"
 ---
 
 запись на сайте Радио России

@@ -5,7 +5,7 @@ issue: 110
 date: 2007-06-24
 excerpt: >
     На прошлой неделе мы говорили о серьезной музыке. Ну, сколько можно? Я просто отказываюсь. Объявляю забастовку!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/110-Neser'eznaja Muzyka.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/110-neser-eznaja-muzyka.mp3"
 ---
 
 послушать

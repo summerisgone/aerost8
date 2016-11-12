@@ -5,7 +5,7 @@ issue: 534
 date: 2015-08-09
 excerpt: >
     Сегодня будем перебирать августовский урожай. И естественно, самая большая новость для выдержанных любителей музыки - это первый за много-много лет новый альбом бывшего гитариста Pink Floyd Дэвида Гилмура "Rattle That Lock", который обещан 18 сентября этого года. А первую песню с него мы уже можем послушать.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/534-Urozhaj Avgusta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/534-urozhaj-avgusta.mp3"
 ---
 
 Здравствуйте!

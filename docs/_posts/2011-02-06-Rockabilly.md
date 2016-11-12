@@ -5,7 +5,7 @@ issue: 299
 date: 2011-02-06
 excerpt: >
     Да. Это рокабилли. Рокабилли - одна из самых ранних разновидностей рок-н-ролла, появившаяся в самом начале 1950-х. Самая дикая, самая социально вредная.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/299-Rockabilly.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/299-rockabilly.mp3"
 ---
 
 6 февраля 2011

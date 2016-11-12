@@ -5,7 +5,7 @@ issue: 91
 date: 2007-02-11
 excerpt: >
     Что-то подсказывает мне, что вот теперь-то, в середине загадочного февраля, и пришла пора поиграть вам песни самой загадочной группы из всех, что когда-либо ходили по земле.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/091-Cocteau Twins.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/091-cocteau-twins.mp3"
 ---
 
 11 февраля 2007

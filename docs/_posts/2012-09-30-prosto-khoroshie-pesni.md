@@ -5,7 +5,7 @@ issue: 385
 date: 2012-09-30
 excerpt: >
     Бывает такой день, когда хочется ничего не объясняя и не подводя никакой идеологической платформы, просто послушать вместе с вами хорошую музыку. А уж музыка сама все расставит так, как следует.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/385-Prosto Horoshie Pesni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/385-prosto-horoshie-pesni.mp3"
 ---
 
 послушать

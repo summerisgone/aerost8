@@ -5,7 +5,7 @@ issue: 491
 date: 2014-10-12
 excerpt: >
     Нет такого закона, чтобы в мире было что-то совсем бесполезное. Вот взять Facebook – какая, собственно, в нем может быть польза? Ан нет, недавно я встретил на просторах Facebook человека, который периодически делится со всеми мудрыми мыслями, пришедшими ему в голову или найденными им у кого-то еще.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/491-Slova Igumena Evmenija.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/491-slova-igumena-evmenija.mp3"
 ---
 
 Здравствуйте!

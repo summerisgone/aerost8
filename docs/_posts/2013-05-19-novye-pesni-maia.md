@@ -5,7 +5,7 @@ issue: 418
 date: 2013-05-19
 excerpt: >
     Один мой знакомый уверен, что два доказательства несостоятельности атеизма – то есть два воплощения рая на земле – это бордель "Черный Ангус" в Рио-де-Жанейро и коллекция мрамора Фарнезе в Museo Archeologico в Неаполе.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/418-Novye Pesni Maja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/418-novye-pesni-maja.mp3"
 ---
 
 послушать

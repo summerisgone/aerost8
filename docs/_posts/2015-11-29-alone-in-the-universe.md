@@ -5,7 +5,7 @@ issue: 550
 date: 2015-11-29
 excerpt: >
     Время от времени во вселенной появляется альбом, который только выйдет, как про него нужно делать передачу. Сегодня - именно такой случай. Вот оно и случилось снова.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/550-Alone in The Universe.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/550-alone-in-the-universe.mp3"
 ---
 
 Здравствуйте!

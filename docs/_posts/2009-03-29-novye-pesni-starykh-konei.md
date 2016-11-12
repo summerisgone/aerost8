@@ -5,7 +5,7 @@ issue: 202
 date: 2009-03-29
 excerpt: >
     Вот я подумал, не посвятить ли нам нашу сегодняшнюю встречу народным пословицам и поговоркам. Например - "Старый конь борозды не испортит".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/202-Novye Pesni Staryh Konej.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/202-novye-pesni-staryh-konej.mp3"
 ---
 
 послушать

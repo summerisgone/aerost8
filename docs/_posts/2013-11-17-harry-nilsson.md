@@ -5,7 +5,7 @@ issue: 444
 date: 2013-11-17
 excerpt: >
     Вы когда-нибудь слышали о Харри Нильсоне? Скорее всего, нет. Хотя это, как минимум, странно – ведь даже сами Битлз называли его "своей любимой американской группой ".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/444-Harry Nilsson.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/444-harry-nilsson.mp3"
 ---
 
 Здравствуйте!

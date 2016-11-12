@@ -5,7 +5,7 @@ issue: 413
 date: 2013-04-14
 excerpt: >
     Бывают в жизни каждого человека навеки меняющие его Встречи с Прекрасным. Вот так идешь себе, ничего не подозревая, и вдруг Прекрасное напрыгивает на тебя, как Тигра на Пятачка; глядь - и ты уж совсем не тот, что раньше.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/413-We're Only in It for Money.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/413-we-re-only-in-it-for-money.mp3"
 ---
 
 послушать

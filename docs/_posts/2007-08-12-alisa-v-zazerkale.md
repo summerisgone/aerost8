@@ -5,7 +5,7 @@ issue: 117
 date: 2007-08-12
 excerpt: >
     В Евангелии сказано - будьте, как дети, иначе не видать вам Царствия Небесного. Даосы призывали пестовать "Внутреннего Ребенка". Катха-Упанишада - это поучения Ямы, Бога Смерти, ребенку - ребенку, поскольку взрослые глухи.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/117-Alisa v Zazerkal'e.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/117-alisa-v-zazerkal-e.mp3"
 ---
 
 послушать

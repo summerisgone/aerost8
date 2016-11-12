@@ -5,7 +5,7 @@ issue: 490
 date: 2014-10-05
 excerpt: >
     Говорят, что время - это условие существования нашего мира. Время идет, мы меняемся. А меняемся ли? Или, сколько не проходит времени, мы гонимся все за тем же, что и всегда.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/490-Urozhaj v Oktjabre.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/490-urozhaj-v-oktjabre.mp3"
 ---
 
 Здравствуйте!

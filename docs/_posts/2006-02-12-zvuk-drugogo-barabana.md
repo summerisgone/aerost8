@@ -5,7 +5,7 @@ issue: 39
 date: 2006-02-12
 excerpt: >
     Кто-то из великих не уставал предупреждать: "Увидишь толпу - отойди!" А Биант, один из семи мудрецов Древней Греции, так тот просто сказал, как отрезал : "Большинство - зло".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/039-Zvuk Drugogo Barabana.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/039-zvuk-drugogo-barabana.mp3"
 ---
 
 послушать

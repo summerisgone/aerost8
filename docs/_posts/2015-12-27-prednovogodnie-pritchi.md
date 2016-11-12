@@ -5,7 +5,7 @@ issue: 554
 date: 2015-12-27
 excerpt: >
     Сегодня, в преддверии Нового года, позвольте мне снова порассказывать вам притчи Обычно я это делал сразу после новогодних праздников, но в такие времена, как наши, чтобы не заблудиться среди меняющихся трендов, нужно менять их самому, не правда ли.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/554-Prednovogodnie Pritchi.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/554-prednovogodnie-pritchi.mp3"
 ---
 
 Здравствуйте!

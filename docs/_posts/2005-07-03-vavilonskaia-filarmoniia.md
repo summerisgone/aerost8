@@ -5,7 +5,7 @@ issue: 7
 date: 2005-07-03
 excerpt: >
     - Правильно. Но в этом пространстве, как в любом пространстве, есть центральные места, а есть места более удаленные, более странные, более фантастические... Попробуем о них сегодня и поговорить.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/007-Vavilonskaja filarmonija.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/007-vavilonskaja-filarmonija.mp3"
 ---
 
 запись на сайте Радио России

@@ -5,7 +5,7 @@ issue: 394
 date: 2012-12-02
 excerpt: >
     На днях исполнилось 45 лет альбому Beatles "Magical Mystery Tour" - и как человек, проживший с этим альбомом почти всю свою жизнь, исходивший его холмы и долины вдоль и поперек, и немного представляющий себе - в какие невероятные вселенные он открывает окна, я хочу сегодня послушать эту музыку вместе с вами.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/394-Magical Mystery Tour.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/394-magical-mystery-tour.mp3"
 ---
 
 послушать

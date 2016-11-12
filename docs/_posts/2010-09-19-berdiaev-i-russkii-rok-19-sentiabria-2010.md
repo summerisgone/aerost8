@@ -5,7 +5,7 @@ issue: 279
 date: 2010-09-19
 excerpt: >
     Давно сказано, что "поэт в России - больше, чем поэт". Хотя сказано это, наверное,  просто от недооценки слова "поэт".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/279-Berdjaev i Russkij Rok.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/279-berdjaev-i-russkij-rok.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 349
 date: 2012-01-22
 excerpt: >
     Мудрецы давно обратили внимание, что люди - в целом - делятся на две группы. Некоторые предпочитают не отходить далеко от родных пенат; другие же подвержены охоте к перемене мест.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/349-Ohota k Peremene Mest.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/349-ohota-k-peremene-mest.mp3"
 ---
 
 послушать

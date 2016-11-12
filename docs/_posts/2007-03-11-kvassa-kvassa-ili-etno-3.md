@@ -5,7 +5,7 @@ issue: 95
 date: 2007-03-11
 excerpt: >
     Мудрые говорили: "Невозможно добиться гармонии, когда каждый поет одну и ту же ноту". Поэтому, стремясь к гармонии, сегодня я буду играть вам разные ноты со всех концов Земли.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/095-Kvassa-Kvassa ili Etno-3.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/095-kvassa-kvassa-ili-etno-3.mp3"
 ---
 
 11 марта

@@ -5,7 +5,7 @@ issue: 450
 date: 2013-12-29
 excerpt: >
     Поздравляю вас с подступающим Новым Годом! Вот он выглядывает из кустов, вот крадется сквозь изморозь с мешком, полным подарков, вот улыбается сквозь живописную седую бороду.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/450-S Novym Godom!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/450-s-novym-godom.mp3"
 ---
 
 Здравствуйте, дорогие мои!

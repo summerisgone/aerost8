@@ -5,7 +5,7 @@ issue: 515
 date: 2015-03-29
 excerpt: >
     Если меня спросят: "А что необходимо для полной радостной и толковой жизни?", я, скорее всего, не найду, что сказать. Но если такой вопрос задать мудрому человеку, он не задумываясь скажет: "Только одно - позитивная энергия".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/515-Pozitivnaja Energija.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/515-pozitivnaja-energija.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 517
 date: 2015-04-12
 excerpt: >
     Поздравляю всех нас с Пасхой. В такой важный день хочется сделать что-то важное; например, наконец-то обратить свое внимание на что-то, что мы все все время видим, но отказываемся замечать.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/517-Pasha - Delat' I Byt'.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/517-pasha-delat-i-byt.mp3"
 ---
 
 Здравствуйте!

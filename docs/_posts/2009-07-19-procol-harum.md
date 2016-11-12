@@ -5,7 +5,7 @@ issue: 218
 date: 2009-07-19
 excerpt: >
     Мне кажется, что довольно уже вот этого - супер, супер... Сегодня - никаких супергрупп. Будем слушать обычную группу, но музыкау нее будет - не просто супер, а настоящее сокровище.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/218-Procol Harum.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/218-procol-harum.mp3"
 ---
 
 послушать

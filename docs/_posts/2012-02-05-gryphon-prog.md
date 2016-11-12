@@ -5,7 +5,7 @@ issue: 351
 date: 2012-02-05
 excerpt: >
     Знаете, я, похоже что, совершенно распустился. Никак не могу заметить в себе тенденции к чему-то просветительскому. Хочется безо всяких лекций ставить вам всякую замечательную музыку.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/351-Gryphon Prog.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/351-gryphon-prog.mp3"
 ---
 
 послушать

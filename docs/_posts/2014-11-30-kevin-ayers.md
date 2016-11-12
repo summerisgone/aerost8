@@ -5,7 +5,7 @@ issue: 498
 date: 2014-11-30
 excerpt: >
     Как говорил великий суфий Хазрат Инайят Хан, "простота естества - знак святых". Сегодня я хочу рассказать вам про одного такого человека. И звали его - Кевин Айерс.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/498-Kevin Ayers.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/498-kevin-ayers.mp3"
 ---
 
 Здравствуйте!

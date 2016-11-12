@@ -5,7 +5,7 @@ issue: 590
 date: 2016-09-04
 excerpt: >
     Немного в мире есть людей, чьи альбомы ожидаешь, затаив дыхание. И, как правило, лучше бы этого не делать, потому что мечты о новом изумительном альбоме кого-то любимого довольно редко сбываются. Но выясняется, что из этого правила есть одно важное исключение: группа Cotton Mather.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/590-Cotton Mather & ''I Ching''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/590-cotton-mather-i-ching.mp3"
 ---
 
 Здравствуйте!

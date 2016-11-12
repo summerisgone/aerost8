@@ -5,7 +5,7 @@ issue: 237
 date: 2009-11-29
 excerpt: >
     Вы слушаете продолжение "Хроник Брайана Ино"; Часть вторая. "Еще Один Зеленый Мир".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/237-Brian Eno, Part 2.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/237-brian-eno-part-2.mp3"
 ---
 
 послушать

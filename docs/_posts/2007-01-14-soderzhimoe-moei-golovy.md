@@ -5,7 +5,7 @@ issue: 87
 date: 2007-01-14
 excerpt: >
     Ау! Вы еще здесь, дорогие мои слушатели? А то мы запустили в эфир подряд целых три благообразные передачи, и я уже начал бояться за наше с вами душевное здоровье. Но это легко исправить! Здравствуйте!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/087-Soderzhimoe Moej Golovy.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/087-soderzhimoe-moej-golovy.mp3"
 ---
 
 послушать

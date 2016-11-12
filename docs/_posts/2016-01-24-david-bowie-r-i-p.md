@@ -5,7 +5,7 @@ issue: 558
 date: 2016-01-24
 excerpt: >
     11 января из жизни ушел Дэвид Боуи. Кто-то сказал: "Человек со звезд вернулся в великую тайну, из которой появился".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/558-David Bowie R. I. P.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/558-david-bowie-r-i-p.mp3"
 ---
 
 Здравствуйте!

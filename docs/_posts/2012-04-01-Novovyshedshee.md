@@ -5,7 +5,7 @@ issue: 359
 date: 2012-04-01
 excerpt: >
     Поздравляю вас с Международным Днем Дурака! Великий день. Ведь дурак - это тот, кто отказался от мирской мудрости, а взамен... Впрочем, разве можно об этом словами?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/359-Novovyshedshee.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/359-novovyshedshee.mp3"
 ---
 
 послушать

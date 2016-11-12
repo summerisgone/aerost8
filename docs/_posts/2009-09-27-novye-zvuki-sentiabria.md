@@ -5,7 +5,7 @@ issue: 228
 date: 2009-09-27
 excerpt: >
     Однако, перемены - очень хорошая вещь. Великий Уильям Блэйк писал: "Не склонный к переменам ум - стоячая вода, в воображении его - нечистых гадов рой".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/228-Novye Zvuki Sentjabrja.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/228-novye-zvuki-sentjabrja.mp3"
 ---
 
 послушать

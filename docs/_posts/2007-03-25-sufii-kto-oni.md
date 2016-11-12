@@ -5,7 +5,7 @@ issue: 97
 date: 2007-03-25
 excerpt: >
     Здравствуйте! Сегодня у нас 25 марта - самый подходящий день для рассказа о суфиях. Итак - кто же такие - суфии?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/097-Sufii - Kto Oni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/097-sufii-kto-oni.mp3"
 ---
 
 послушать

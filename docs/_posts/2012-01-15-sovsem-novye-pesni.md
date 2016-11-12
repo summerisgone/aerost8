@@ -5,7 +5,7 @@ issue: 348
 date: 2012-01-15
 excerpt: >
     Поздравляю вас с наступившим Старым Новым Годом! Сегодня - в честь такого дня - бросим же взгляд на новые альбомы, только что вышедшие или вот-вот собирающиеся выйти.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/348-Sovsem Novye Pesni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/348-sovsem-novye-pesni.mp3"
 ---
 
 послушать

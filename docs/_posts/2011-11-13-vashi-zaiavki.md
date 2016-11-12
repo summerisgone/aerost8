@@ -5,7 +5,7 @@ issue: 339
 date: 2011-11-13
 excerpt: >
     Говорят, что важнейшее удовольствие этой жизни - делать других людей счастливыми. А поскольку мне часто приходят от вам письма с просьбой поставить ту или иную музыку, то как же я могу отказать себе в таком удовольствии?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/339-Vashi Zajavki.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/339-vashi-zajavki.mp3"
 ---
 
 послушать

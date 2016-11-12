@@ -5,7 +5,7 @@ issue: 543
 date: 2015-10-11
 excerpt: >
     На прошлой неделе мы с вами наслаждались безответственным чтением стихов. Сегодня давайте сделаем все наоборот и будем ужасно серьезными, почти научными.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/543-Velosipedist I Egregor.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/543-velosipedist-i-egregor.mp3"
 ---
 
 Здравствуйте!

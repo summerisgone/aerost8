@@ -5,7 +5,7 @@ issue: 217
 date: 2009-07-12
 excerpt: >
     На прошлой неделе мы начали говорить о супергруппах. Вот Crosby, Stills & Nash были интернациональной супергруппой; и почему-то раз интернациональная, то значит - живут и работают в Америке. Ничего не имею против Америки, но сегодня давайте поговорим о супергруппе чисто британской.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/217-Emerson, Lake & Palmer.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/217-emerson-lake-palmer.mp3"
 ---
 
 послушать

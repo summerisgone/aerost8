@@ -5,7 +5,7 @@ issue: 122
 date: 2007-09-16
 excerpt: >
     В этом году исполняется 40 лет со дня выхода величайшего дебютного альбома всех времен и народов; первой пластинки невероятного музыканта, в корне изменившего наши представления о том, как играть на гитаре.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/122-Jimi - Are You Experienced.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/122-jimi-are-you-experienced.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 410
 date: 2013-03-24
 excerpt: >
     На улице весна - и самое время вспомнить добрым словом еще одних героев музыки веселого времечка, которое мы здесь, на территории Аэростата, привыкли называть "Золотым Веком".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/410-The Mamas And The Papas.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/410-the-mamas-and-the-papas.mp3"
 ---
 
 послушать

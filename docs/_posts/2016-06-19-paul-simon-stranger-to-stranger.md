@@ -5,7 +5,7 @@ issue: 579
 date: 2016-06-19
 excerpt: >
     Есть время разбрасывать камни и время их собирать; Время обнимать и время уклоняться от объятий; время воздавать должное альбомам, которым стукнуло полвека, и время слушать музыку, которая только что появилась на свет.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/579-Paul Simon - ''Stranger to Stranger''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/579-paul-simon-stranger-to-stranger.mp3"
 ---
 
 Здравствуйте!

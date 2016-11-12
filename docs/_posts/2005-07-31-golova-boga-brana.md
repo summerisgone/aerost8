@@ -5,7 +5,7 @@ issue: 11
 date: 2005-07-31
 excerpt: >
     Всех нас научили жить в понятном и объяснимом мире. Мы смотрим рекламу по телевизору, следим за драками в Госдуме и даже не подозреваем, что реальный мир начинается прямо за нашими дверями, и мы ничего о нем не знаем.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/011-Golova Boga Brana.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/011-golova-boga-brana.mp3"
 ---
 
 запись на сайте Радио России

@@ -5,7 +5,7 @@ issue: 93
 date: 2007-02-25
 excerpt: >
     Здравствуйте! Сегодня день рождения Джорджа Харрисона; человека, которому я многим обязан в своей жизни.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/093-Muzyka Indii.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/093-muzyka-indii.mp3"
 ---
 
 25 февраля 2007

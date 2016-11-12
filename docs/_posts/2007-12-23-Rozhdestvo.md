@@ -5,7 +5,7 @@ issue: 136
 date: 2007-12-23
 excerpt: >
     Наступает Рождество. Волшебный день, в который принято делать подарки. Сегодня, наконец, пришло время отозваться на ваши заявки, просьбы, вопросы, негодования и восклицания.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/136-Rozhdestvo.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/136-rozhdestvo.mp3"
 ---
 
 послушать

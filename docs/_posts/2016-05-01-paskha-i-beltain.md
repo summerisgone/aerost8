@@ -5,7 +5,7 @@ issue: 572
 date: 2016-05-01
 excerpt: >
     Сегодня прекрасный и удивительный день. В один день мы празднуем и Пасху, и Белтайн. Казалось бы праздники совсем разные, а суть у них одна и та же. Приход радости в нашу жизнь. Победа весны и света.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/572-Pasha I Beltajn.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/572-pasha-i-beltajn.mp3"
 ---
 
 Здравствуйте!

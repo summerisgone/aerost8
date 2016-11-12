@@ -5,7 +5,7 @@ issue: 255
 date: 2010-04-04
 excerpt: >
     Поздравляю вас со светлым праздником Пасхи, самым тишайшим и непостижимым днем года! Сегодня все мы родились вновь - с чем я всех и поздравляю. Этот день вновь напоминает, что мы были и остаемся современниками чуда.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/255-Novye Viktoriantsy.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/255-novye-viktoriantsy.mp3"
 ---
 
 послушать

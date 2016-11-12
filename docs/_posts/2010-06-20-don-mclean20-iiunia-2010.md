@@ -5,7 +5,7 @@ issue: 266
 date: 2010-06-20
 excerpt: >
     Cегодня я хочу рассказать вам про одного из... нет, неправильно. Он не "один из"; он - единственный, и некоторые считают, что прекраснее и печальнее песен о любви никто никогда не писал и не пел.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/266-Don McLean.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/266-don-mclean.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 254
 date: 2010-03-28
 excerpt: >
     Здравствуйте! Сегодня мы вновь возвращаемся в магический и неповторимый мир Брайана Ино. Серия третья, в которой наш герой становится продюсером.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/254-Brian Eno, Part 3. Prodjuser.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/254-brian-eno-part-3-prodjuser.mp3"
 ---
 
 послушать

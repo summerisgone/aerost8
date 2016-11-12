@@ -5,7 +5,7 @@ issue: 449
 date: 2013-12-22
 excerpt: >
     Вот и снова приближается чудесный праздник Рождества. И значит нам снова даровано официальное право слушать Рождественскую музыку и всем вместе настраиваться на волшебный лад.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/449-S Rozhdestvom!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/449-s-rozhdestvom.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 187
 date: 2008-12-14
 excerpt: >
     Сегодня у нас речь пойдет об одном роде музыки, простом как материя и, как материя, сложном; позвольте мне рассказать вам сегодня о музыке "кантри".
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/187-Country Music.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/187-country-music.mp3"
 ---
 
 послушать

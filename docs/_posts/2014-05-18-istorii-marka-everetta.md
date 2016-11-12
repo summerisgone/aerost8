@@ -5,7 +5,7 @@ issue: 470
 date: 2014-05-18
 excerpt: >
     Меня часто спрашивают - есть ли сегодняшняя музыка, которую я слушаю с таким же удовольствием, как музыку минувших эпох. От такого вопроса всегда приходится некоторое время с кисло-глубокомысленным видом чесать в затылке.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/470-Istorii Marka Everetta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/470-istorii-marka-everetta.mp3"
 ---
 
 Здравствуйте!

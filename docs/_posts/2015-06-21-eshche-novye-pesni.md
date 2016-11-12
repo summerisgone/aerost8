@@ -5,7 +5,7 @@ issue: 527
 date: 2015-06-21
 excerpt: >
     Этим летом количество новой музыки зашкаливает, и поэтому сегодня - вторая передача за месяц с новой музыкой. Ну, разве это не прекрасно?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/527-Esche Novye Pesni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/527-esche-novye-pesni.mp3"
 ---
 
 Здравствуйте!

@@ -5,7 +5,7 @@ issue: 482
 date: 2014-08-10
 excerpt: >
     Прошел уж 31 год с тех пор, как Аквариум выпустил свой может быть самый любимый народом альбом - "Радио Африка". Многие спрашивают - как такое могло прийти нам в голову?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/482-Radio Afrika.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/482-radio-afrika.mp3"
 ---
 
 Здравствуйте!

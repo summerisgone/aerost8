@@ -5,7 +5,7 @@ issue: 485
 date: 2014-08-31
 excerpt: >
     Завтра первое сентября, начало нового учебного года - с чем я вас и поздравляю. А значит, и передача должна быть сегодня с некоторым образовательным уклоном. А что может быть более образовательного, чем притчи?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/485-Pritchi v Kontse Leta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/485-pritchi-v-kontse-leta.mp3"
 ---
 
 Здравствуйте!

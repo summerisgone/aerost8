@@ -5,7 +5,7 @@ issue: 358
 date: 2012-03-25
 excerpt: >
     Рассказывают, что Иван Сергеевич Тургенев шел однажды по улице и вдруг остановился и как скажет: "О, кроткие чувства, мягкие звуки, доброта и утихание тронутой души, тающая радость первых умилений любви - где вы, где вы?"
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/358-Harri Parch I Vse-Vse-Vse.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/358-harri-parch-i-vse-vse-vse.mp3"
 ---
 
 послушать

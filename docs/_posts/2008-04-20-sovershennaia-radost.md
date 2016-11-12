@@ -5,7 +5,7 @@ issue: 153
 date: 2008-04-20
 excerpt: >
     Вот-вот наступит Страстная неделя; а, значит, самое время вспомнить о том, до чего в обыденной жизни как-то руки не доходят: о совершенной радости.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/153-Sovershennaja Radost'.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/153-sovershennaja-radost.mp3"
 ---
 
 послушать

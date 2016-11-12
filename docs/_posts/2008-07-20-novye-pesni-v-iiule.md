@@ -5,7 +5,7 @@ issue: 166
 date: 2008-07-20
 excerpt: >
     Ими-то я и хочу с вами сегодня поделиться. И для начала - давно обещанный новый альбом Питера Гэбриэла видимо близок к завершению и уже дал первый росток.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/166-Novye pesni v ijule.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/166-novye-pesni-v-ijule.mp3"
 ---
 
 послушать

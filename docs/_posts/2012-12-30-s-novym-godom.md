@@ -5,7 +5,7 @@ issue: 398
 date: 2012-12-30
 excerpt: >
     Завтра у нас лучший в году праздник - праздник прихода Нового года. Поздравляю вас с Наступающим, дорогие мои!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/398-S Novym Godom!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/398-s-novym-godom.mp3"
 ---
 
 послушать

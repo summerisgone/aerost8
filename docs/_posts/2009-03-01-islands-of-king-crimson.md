@@ -5,7 +5,7 @@ issue: 198
 date: 2009-03-01
 excerpt: >
     Ну вот ничего не могу с собой поделать. Боролся с собой, как мог, крепился, держался... Все бесполезно.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/198-Islands of King Crimson.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/198-islands-of-king-crimson.mp3"
 ---
 
 послушать

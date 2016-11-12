@@ -5,7 +5,7 @@ issue: 276
 date: 2010-08-29
 excerpt: >
     Вот и август подходит к концу - вот и пришло время осмотреть хозяйским глазом музыкальную ниву: много ли новых песен появилось в нашей жизни за это лето ?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/276-Plody Etogo Leta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/276-plody-etogo-leta.mp3"
 ---
 
 послушать

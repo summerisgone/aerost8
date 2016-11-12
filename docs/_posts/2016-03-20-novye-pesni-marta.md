@@ -5,7 +5,7 @@ issue: 566
 date: 2016-03-20
 excerpt: >
     Главное сегодня - воздержаться об упоминания о мартовских котах и мартовских зайцах. Эх! Ну ладно.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/566-Novye Pesni Marta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/566-novye-pesni-marta.mp3"
 ---
 
 Здравствуйте!

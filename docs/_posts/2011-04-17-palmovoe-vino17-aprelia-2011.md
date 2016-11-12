@@ -5,7 +5,7 @@ issue: 309
 date: 2011-04-17
 excerpt: >
     Уж много лун тому, как я твердо решил сделать для вас передачу про великого мастера музыки пальмового вина Сулимана Эрнеста Роги, да все не знал - как к этому подступиться. И вдруг меня осенила идея.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/309-Pal'movoe Vino.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/309-pal-movoe-vino.mp3"
 ---
 
 послушать

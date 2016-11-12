@@ -5,7 +5,7 @@ issue: 512
 date: 2015-03-08
 excerpt: >
     Здравствуйте!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/512-Pesni 8 Marta.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/512-pesni-8-marta.mp3"
 ---
 
 Здравствуйте!

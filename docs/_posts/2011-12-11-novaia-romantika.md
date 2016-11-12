@@ -5,7 +5,7 @@ issue: 343
 date: 2011-12-11
 excerpt: >
     Сегодня человечество празднует Международный День Гор. Ну как же нам с вами не поговорить в такой день о чем-нибудь высоком, например, о героях? Особенно, если это - "последние герои"?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/343-Novaja Romantika.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/343-novaja-romantika.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 146
 date: 2008-03-02
 excerpt: >
     Да, да, да! Действительно. Наступила весна. Сколько можно играть одно и то же! Ударим же новыми именами по бездорожью и разгильдяйству!
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/146-Sovsem Novye Imena.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/146-sovsem-novye-imena.mp3"
 ---
 
 послушать

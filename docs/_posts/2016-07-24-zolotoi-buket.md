@@ -5,7 +5,7 @@ issue: 584
 date: 2016-07-24
 excerpt: >
     Мы, наконец, закончили собирать в один альбом любимые нами русские песни, которые - как я уже рассказывал недавно - мы время от времени записывали за последние 22 года.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/584-''Zolotoj Buket''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/584-zolotoj-buket.mp3"
 ---
 
 Здравствуйте, друзья!

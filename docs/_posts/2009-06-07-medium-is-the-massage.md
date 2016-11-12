@@ -5,7 +5,7 @@ issue: 212
 date: 2009-06-07
 excerpt: >
     Как заметил однажды крупный теоретик информатики Маршал Маклюэн: "Высший принцип - это отсутствие принципа". Вот именно этот ветер и понесет сегодня нашу непутевую передачу.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/212-Medium Is The Massage.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/212-medium-is-the-massage.mp3"
 ---
 
 послушать

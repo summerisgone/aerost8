@@ -5,7 +5,7 @@ issue: 244
 date: 2010-01-17
 excerpt: >
     Беспристрастные наблюдатели ООН констатируют, что самой популярной музыкальной формой XX-XXI веков является песня - короткое музыкальное произведение со словами длиной в 3-4 минуты.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/244-Mini-Operas.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/244-mini-operas.mp3"
 ---
 
 послушать

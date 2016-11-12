@@ -5,7 +5,7 @@ issue: 99
 date: 2007-04-08
 excerpt: >
     Здравствуйте все! Сегодня - к черту политкорректность; раз Америку принято ругать, то должен быть хоть кто-то, кто скажет о ней что-нибудь хорошее.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/099-Apologija Ameriki.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/099-apologija-ameriki.mp3"
 ---
 
 послушать

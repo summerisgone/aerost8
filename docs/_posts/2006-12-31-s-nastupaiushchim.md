@@ -5,7 +5,7 @@ issue: 85
 date: 2006-12-31
 excerpt: >
     Здравствуйте! Сегодня у нас Новый Год - лучший праздник в году, и мне хочется опять порадовать вас самыми поднимающими дух песнями - на мой, разумеется, вкус.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/085-S Nastupajuschim!.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/085-s-nastupajuschim.mp3"
 ---
 
 послушать

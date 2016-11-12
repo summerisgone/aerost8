@@ -5,7 +5,7 @@ issue: 145
 date: 2008-02-24
 excerpt: >
     Есть один город на земле. Город-миф, город-легенда, город контрастов, город вдохновениz. А раз вдохновение, то этого-то нам и надо. О нем мы сегодня и поговорим.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/145-London Town.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/145-london-town.mp3"
 ---
 
 послушать

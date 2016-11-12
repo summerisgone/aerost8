@@ -5,7 +5,7 @@ issue: 270
 date: 2010-07-18
 excerpt: >
     Здравствуйте! Поздравляю вас с Праздником Месяца. Народная мудрость гласит, что сегодня нужно смотреть - как он играет.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/270-Masterklass Toma Uejtsa.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/270-masterklass-toma-uejtsa.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 528
 date: 2015-06-28
 excerpt: >
     Цой пел: Мы ждем перемен. А не пора ли осмотреться вокруг и проверить – а вдруг эти перемены и впрямь происходят?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/528-Vremja Peremen.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/528-vremja-peremen.mp3"
 ---
 
 Здравствуйте!

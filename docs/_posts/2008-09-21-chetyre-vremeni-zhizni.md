@@ -5,7 +5,7 @@ issue: 175
 date: 2008-09-21
 excerpt: >
     Вокруг нас свирепствует золотая осень, прямо как на картинке в хрестоматии "Родная Речь"; и мне представляется, что это знак. Знак того, что речь сегодня должна пойти о вещах серьезных, фундаментальных и чрезвычайно существенных.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/175-Chetyre Vremeni Zhizni.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/175-chetyre-vremeni-zhizni.mp3"
 ---
 
 послушать

@@ -5,7 +5,7 @@ issue: 209
 date: 2009-05-17
 excerpt: >
     Признаюсь вам честно: сдаюсь. Видит Бог - я долго крепился, но мне не устоять перед мощью целого народа. Количество писем превысило все допустимые ожидания. Мало того - как писал поэт:
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/209-Nick Drake.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/209-nick-drake.mp3"
 ---
 
 послушать

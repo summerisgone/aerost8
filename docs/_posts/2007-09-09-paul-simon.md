@@ -5,7 +5,7 @@ issue: 121
 date: 2007-09-09
 excerpt: >
     Здравствуйте! Древние мудрецы советовали нам водить компанию лучших из лучших. Повинуясь их мудрому завету, хочу рассказать вам сегодня про Пола Саймона.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/121-Paul Simon.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/121-paul-simon.mp3"
 ---
 
 послушать

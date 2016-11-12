@@ -5,7 +5,7 @@ issue: 354
 date: 2012-02-26
 excerpt: >
     Мудрые старожилы учат: в холодное время года нужно согреваться - а что может согреть лучше, чем внутренние танцы под музыку жарких стран?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/354-Kalipso I Drugie.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/354-kalipso-i-drugie.mp3"
 ---
 
 послушать

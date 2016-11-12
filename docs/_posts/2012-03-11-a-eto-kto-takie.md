@@ -5,7 +5,7 @@ issue: 356
 date: 2012-03-11
 excerpt: >
     Вот сегодня я и хочу поговорить с вами о связи литературы начала XX века и современной электрической народной песни начала XXI.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/356-A Eto Kto Takie.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/356-a-eto-kto-takie.mp3"
 ---
 
 послушать

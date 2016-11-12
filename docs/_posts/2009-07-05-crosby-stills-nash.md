@@ -5,7 +5,7 @@ issue: 216
 date: 2009-07-05
 excerpt: >
     Что такое группа - понятно. Несколько людей, собравшихся вместе для занятий музыкой. А когда каждый из этих людей - звезда сам по себе, получившееся объединение - это супергруппа. Со всеми вытекающими отсюда последствиями.
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/216-Crosby, Stills & Nash.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/216-crosby-stills-nash.mp3"
 ---
 
 послушать

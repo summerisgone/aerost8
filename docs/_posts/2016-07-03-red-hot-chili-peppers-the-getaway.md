@@ -5,7 +5,7 @@ issue: 581
 date: 2016-07-03
 excerpt: >
     На позапрошлой неделе была у нас передача про новый альбом Пола Саймона, на прошлой - новые только что вышедшие альбомы; и только было я собрался забыть про новости и поговорить с вами о чем-нибудь вечном, вроде духовного животноводства в Аргентине XVII века или ониксовых балерин с Балеарских островов, как выходит новый альбом Red Hot Chili Peppers. Ну и куда деваться?
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/581-Red Hot Chili Peppers - ''The Getaway''.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/581-red-hot-chili-peppers-the-getaway.mp3"
 ---
 
 Здравствуйте!

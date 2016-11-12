@@ -5,7 +5,7 @@ issue: 304
 date: 2011-03-13
 excerpt: >
     Когда-то ситуация с музыкой была проста. Артисты играли, звукорежиссеры записывали, фирмы издавали, слушатели покупали и слушали. Все было как в раю; Корней Чуковский, описывал это золотое время так:
-track: "http://aerost8.s3.eu-central-1.amazonaws.com/304-Slava Vorob'jam.mp3"
+track: "http://aerost8.s3.eu-central-1.amazonaws.com/304-slava-vorob-jam.mp3"
 ---
 
 послушать
