@@ -51,12 +51,15 @@ Player.prototype.init = function() {
             },
             onresume: () => {
                 this.statusObservable.next('play');
+            },
+            onplay: () => {
+                this.statusObservable.next('play');
             }
         });
         this.sound.play();
     });
     pauseToggleObservable.subscribe(pause => {
-        this.sound.togglePause();
+        this.sound && this.sound.togglePause();
     });
 };
 
@@ -68,6 +71,9 @@ Player.prototype.setupUI = function() {
         }
         if (status === 'play') {
             $player.find('#id_player_status').attr('class', 'fa fa-play');
+        }
+        if (status === 'play') {
+            $player.addClass('active');
         }
     });
 
@@ -88,8 +94,10 @@ Player.prototype.setupUI = function() {
 Player.prototype.urlClick = function(url, el) {
     this.urlClickSubject.next(url);
     if (el) {
+        $('.js-play').removeClass('btn-primary');
         player.statusObservable.take(1).subscribe(function(status) {
             var $el = $(el);
+            $(el).addClass('btn-primary');
             if (status === 'pause') {
                 $el.find('i.fa').attr('class', 'fa fa-pause');
             }

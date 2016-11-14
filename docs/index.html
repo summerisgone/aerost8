@@ -19,7 +19,7 @@ sitemap:
                     </h2>
                     <div class="post-list__excerpt">{{ post.excerpt }}</div>
                     {% if post.track %}
-                    <button class="btn btn-primary" onclick="player.urlClick('{{post.track | uri_escape}}', this)">
+                    <button class="btn btn-default js-play" onclick="player.urlClick('{{post.track | uri_escape}}', this)">
                         <i class="fa fa-play"></i>
                     </button>
                     <audio src="{{post.track}}" class="post-list__audio" preload="none" />
