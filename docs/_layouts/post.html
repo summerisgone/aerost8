@@ -15,7 +15,10 @@ layout: default
 
             <div class="post__content" itemprop="articleBody">
                 {% if page.track %}
-                <audio src="{{page.track}}" preload="none" controls></audio>
+                <button class="btn btn-default js-play" onclick="player.urlClick('{{page.track | uri_escape}}', this)">
+                    <i class="fa fa-play"></i>
+                </button>
+                <audio src="{{page.track}}" class="post-list__audio" preload="none" />
                 {% endif %}
                 {{ content }}
             </div>

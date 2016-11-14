@@ -7,6 +7,11 @@ $player-height: 60px;
     height: $player-height;
     background: rgba(255,255,255,0.9);
     z-index: 100;
+    opacity: 0;
+    transition: opacity 300ms ease;
+    &.active {
+        opacity: 1;
+    }
 }
 
 .player__container {
@@ -75,12 +80,12 @@ $player-height: 60px;
 }
 
 .progress-slider__cached {
-    width: 50%;
+    width: 0%;
     background: darken(white, 50%);
 }
 
 .progress-slider__current {
-    width: 10%;
+    width: 0%;
     background: #155799;
     .player__progress-time {
         color: white;
