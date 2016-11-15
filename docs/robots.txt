@@ -1,2 +1,3 @@
 User-agent: *
+Host: aerostat.rocks
 Sitemap: http://aerostat.rocks/sitemap.xml
