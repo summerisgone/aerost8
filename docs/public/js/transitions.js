@@ -18,6 +18,7 @@
                     return;
                 }
                 $wrap.html($(elem).html());
+                window.scroll(0,0);
                 window.player && window.player.updateControls();
             });
         });
