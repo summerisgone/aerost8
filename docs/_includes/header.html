@@ -1,12 +1,18 @@
 <header class="header">
     <div class="container-fluid">
         <h1 class="header__logo">
-            <a class="header__link" href="{{ site.baseurl }}/">Ȧэростат</a>
+            <a class="header__link js-link" title="{{site.title}}" href="{{ site.baseurl }}/">Ȧэростат</a>
             <div class="header__description">{{ site.description }}</div>
         </h1>
         <nav class="header__nav">
             {% for menu_page in site.pages %} {% if menu_page.title %}
-            <li class="header__navitem"><a class="header__link" href="{{ menu_page.url | prepend: site.baseurl }}">{{ menu_page.title }}</a></li>
+            <li class="header__navitem">
+                <a class="header__link js-link"
+                    title="{{menu_page.title}}"
+                    href="{{ menu_page.url | prepend: site.baseurl }}">
+                    {{ menu_page.title }}
+                </a>
+            </li>
             {% endif %} {% endfor %}
         </nav>
     </div>

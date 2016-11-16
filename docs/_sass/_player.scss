@@ -22,8 +22,10 @@ $player-height: 60px;
 .player__control {
     font-size: $player-height - 30px;
     line-height: $player-height;
-    margin: 0 15px;
     padding: 0;
+    width: 60px;
+    margin: 0;
+    text-align: center;
     color: darken(white, 75%);
     transition: all 100ms ease;
     &:hover {
@@ -90,5 +92,19 @@ $player-height: 60px;
     .player__progress-time {
         color: white;
         text-align: right;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .player {
+        height: 120px;
+    }
+    .player__container {
+        flex-wrap: wrap;
+        padding: 0;
+    }
+    .player__progress {
+        order: 100;
+        width: 100%;
     }
 }

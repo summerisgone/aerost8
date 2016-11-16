@@ -13,29 +13,29 @@ sitemap:
                     <span class="post-list__date">{{ post.date | date: "%b %-d, %Y" }}</span>
                     <h2>
                         {% if post.issue %}<span class="post-list__issue">#{{post.issue}}</span>{% endif %}
-                        <a class="post-list__title" href="{{ post.url | prepend: site.baseurl }}">
+                        <a class="post-list__title js-link" title="{{post.title}}" href="{{ post.url | prepend: site.baseurl }}">
                             {{ post.title }}
                         </a>
                     </h2>
                     <div class="post-list__excerpt">{{ post.excerpt }}</div>
                     {% if post.track %}
-                    <button class="btn btn-default js-play" onclick="player.urlClick('{{post.track | uri_escape}}', this)">
+                    <button class="btn btn-default js-play hide" data-issue="{{post.issue}}" data-title="{{post.title}}" onclick="player.urlClick('{{post.track | uri_escape}}', this)">
                         <i class="fa fa-play"></i>
                     </button>
-                    <audio src="{{post.track}}" class="post-list__audio" preload="none"></audio>
+                    <audio src="{{post.track}}" class="post-list__audio js-audio" controls preload="none"></audio>
                     {% endif %}
                 </div>
             {% endfor %}
         </div>
         <div class="pagination">
           {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+            <a href="{{ paginator.previous_page_path }}" class="previous js-link">Previous</a>
           {% else %}
             <span class="previous">Previous</span>
           {% endif %}
           <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
           {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+            <a href="{{ paginator.next_page_path }}" class="next js-link">Next</a>
           {% else %}
             <span class="next ">Next</span>
           {% endif %}

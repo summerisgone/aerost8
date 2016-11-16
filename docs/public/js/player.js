@@ -5,12 +5,13 @@ function Player(options) {
     this.pauseToggleSubject = new Rx.Subject();
     // UI events
     this.statusObservable = new Rx.BehaviorSubject();
-    this.infoObservable = new Rx.BehaviorSubject();
+    this.infoSubject = new Rx.BehaviorSubject();
     this.progressSubject = new Rx.BehaviorSubject([0,0]);
     this.loadingSubject = new Rx.BehaviorSubject(0);
     this.sound = null;
     this.init();
     this.setupUI();
+    this.updateControls();
 }
 Player.sound = null;
 
@@ -75,6 +76,7 @@ Player.prototype.setupUI = function() {
         if (status === 'play') {
             $player.addClass('active');
         }
+        this.updateControls();
     });
 
     this.loadingSubject.subscribe(percent => {
@@ -89,27 +91,48 @@ Player.prototype.setupUI = function() {
         $player.find('#id_player_play_time').text(current);
         $player.find('#id_player_total_time').text(total);
     });
+
+    this.infoSubject.filter(data => !!data).subscribe(data => {
+        $player.find('#id_player_track_title').text(data.track);
+        $player.find('#id_player_track_artist').text(`${data.artist} выпуск ${data.issue}`);
+        this.updateControls();
+    });
 };
 
 Player.prototype.urlClick = function(url, el) {
     this.urlClickSubject.next(url);
     if (el) {
-        $('.js-play').removeClass('btn-primary');
-        player.statusObservable.take(1).subscribe(function(status) {
-            var $el = $(el);
-            $(el).addClass('btn-primary');
-            if (status === 'pause') {
-                $el.find('i.fa').attr('class', 'fa fa-pause');
-            }
-            if (status === 'play') {
-                $el.find('i.fa').attr('class', 'fa fa-play');
-            }
+        var $el = $(el);
+        this.infoSubject.next({
+            artist: "Аэростат",
+            track: $el.data('title'),
+            issue: $el.data('issue')
         });
     }
+    this.updateControls();
 };
 
 Player.prototype.togglePause = function() {
     this.pauseToggleSubject.next();
+};
+
+Player.prototype.updateControls = function() {
+    $('.js-play.hide').removeClass('hide');
+    $('.js-audio').removeAttr('controls');
+
+    $('.js-play').removeClass('btn-primary');
+    this.infoSubject.filter(data => !!data).take(1).subscribe(data => {
+        var $currentControl = $('.js-play[data-issue=' + data.issue + ']');
+        this.statusObservable.take(1).subscribe(status => {
+            $currentControl.addClass('btn-primary');
+            if (status === 'pause') {
+                $currentControl.find('i.fa').attr('class', 'fa fa-pause');
+            }
+            if (status === 'play') {
+                $currentControl.find('i.fa').attr('class', 'fa fa-play');
+            }
+        });
+    });
 };
 
 
@@ -121,7 +144,7 @@ Player.prototype.togglePause = function() {
             });
             $(document).on('keypress', function(e) {
                 if (e.target.tagName.toLowerCase() === 'body' && e.keyCode === 32) {
-                    e.stopPropagation();
+                    e.preventDefault();
                     player.togglePause();
                 }
             });
