@@ -7,3 +7,4 @@ pymongo
 PyYAML
 bs4
 slugify
+requests
