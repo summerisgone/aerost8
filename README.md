@@ -54,3 +54,10 @@ You should have``123-issue-title.mp3`` and ``123-issue-title.txt`` files per eac
 10. Finally, generate posts:
 
     python music/gen.py docs/_posts
+
+
+# Notepad for commands
+
+Cut mp3 into tracks:
+    
+    ffmpeg -i 595.mp3 -af silencedetect=noise=-50dB:duration=0.1 -f null - 2> 595.txt 
