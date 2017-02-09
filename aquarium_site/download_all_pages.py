@@ -4,7 +4,7 @@ from os.path import join, basename
 import requests
 
 def main(outdir):
-    for issue in range(1, 600):
+    for issue in range(0, 650):
         url = 'http://aquarium.ru/misc/aerostat/aerostat{0}.html'.format(str(issue).zfill(2))
         response = requests.get(url)
         if response.status_code == 200:
