@@ -21,7 +21,7 @@ class Issue(Document):
         'slug': basestring,
         'title': basestring,
         'date': datetime,
-        'mp3': basestring,
+        'track': basestring,
         'tracks': [{
             'order': int,
             'start': float,

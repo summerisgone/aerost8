@@ -59,5 +59,14 @@ You should have``123-issue-title.mp3`` and ``123-issue-title.txt`` files per eac
 # Notepad for commands
 
 Cut mp3 into tracks:
-    
+
     ffmpeg -i 595.mp3 -af silencedetect=noise=-50dB:duration=0.1 -f null - 2> 595.txt 
+
+
+Read data from markup
+
+    find docs/_posts/ -name \*\.md -exec python music/reader.py '{}' \;
+
+Generate data in posts from DB
+
+    python music/gen.py docs/_posts/

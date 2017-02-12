@@ -1,15 +1,11 @@
 # -*- coding: utf-8 -*-
-from pymongo import MongoClient
 import datetime
 from os.path import join
 import argparse
 import yaml
 from slugify import slugify
+from model import Issue, connection
 
-client = MongoClient()
-MONGO_CONNECTION = 'localhost:27017'
-MONGO_DBNAME = 'aerost8'
-MONGO_COLLECTION = 'issues'
 FILENAME = '{date}-{slug}.md'
 CONTENT = u"""---
 layout: post
@@ -35,26 +31,30 @@ def html_escape(text):
     """Produces entities within text."""
     return "".join(html_escape_table.get(c,c) for c in text)
 
+def html_unescape(text):
+    for k, v in html_escape_table.iteritems():
+        text = text.replace(v, k)
+    return text
+
 def main(out_folder):
-    client = MongoClient(MONGO_CONNECTION)
-    cur = client[MONGO_DBNAME][MONGO_COLLECTION]
-    for issue in cur.find({}):
+    db_handler = connection[Issue.__database__][Issue.__collection__]
+    for issue in db_handler.Issue.find({}):
         long_ps = [p for p in issue.get('paragraphs') if len(p) > 80]
         data = dict(
             date=issue['date'].strftime('%Y-%m-%d'),
-            slug=slugify(issue.get('name', None)),
-            title=html_escape(issue.get('name', None)),
+            slug=slugify(html_unescape(issue.get('title', None))),
+            title=issue.get('title', None),
             url=issue.get('url', ''),
-            track='' if not issue.get('url', None) else 'track: "{0}"\n'.format(issue.get('url')),
+            track='track: "{0}"\n'.format(issue.get('track')) if issue.get('track') else '',
             issue=issue.get('issue', None),
-            content='\n\n'.join(issue['paragraphs']),
+            content='\n\n'.join([p.strip() for p in issue['paragraphs'] if len(p)]),
             excerpt=long_ps[0] if long_ps else issue.get('paragraphs')[0],
             # cue=yaml.dump(issue.get('tracks', None)),
         )
         with open(join(out_folder, FILENAME.format(**data)), 'w') as f:
             # print type(CONTENT.format(**data))
             f.write(CONTENT.format(**data).encode('utf8'))
-        print data['title']
+        # print data['title']
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
