@@ -1,0 +1,20 @@
+.trackinfo {
+    display: flex;
+    flex-direction: row;
+}
+.thumbnail, .release, .track  {
+    margin: 0 0.5rem;
+}
+.thumbnail, .release {
+    flex: 0;
+}
+.track {
+    flex: 1;
+}
+.trackTitle {
+    font-weight: bold;
+    display: block;
+}
+.artistName, .album {
+    display: inline-block;
+}
