@@ -1,8 +1,9 @@
-import React from 'react';
-import {Dropdown} from 'semantic-ui-react';
-import styles from './trackinfo.css';
+const React = require('react')
+const Dropdown = require('semantic-ui-react').Dropdown
+const styles = require('./trackinfo.css')
 
-export default function Paragraph(props) {
+
+function TrackInfo(props) {
     return (
         <Dropdown.Item>
             <div className={styles.trackinfo}>
@@ -19,3 +20,4 @@ export default function Paragraph(props) {
         </Dropdown.Item>
     )
 }
+module.exports = TrackInfo

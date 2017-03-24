@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "fetch-jsonp": "^1.0.6",
-    "observable-connection": "^0.0.1",
+    "observable-connection": "^0.1.0",
     "semantic-ui-react": "^0.65.0"
   }
 }
