@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    </head>
+    <body ng-app="app" ng-controller="main">
+        
+        <input type="number" ng-model="issue">
+
+        <button ng-click="extract()" ng-disabled="loading && text == ''">Extract!</button>
+        
+        <p ng-show="loading">Wait...</p>
+
+        <div class="row">
+            <div class="col-md-6">
+                <p ng-bind-html="html"></p>
+                <p ng-style="{color: 'red'}" ng-show="error">{{error}}</p>
+            </div>
+            <div class="col-md-6">
+                <ul ng-repeat="item in entities | filter:filterLoc track by $index ">
+                    <li>{{item.text}}</li>
+                </ul>
+                <p>{{result}}</p>
+            </div>
+            
+        </div>
+        
+        
+
+
+
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.6/angular.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.6/angular-sanitize.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="./places.js"></script>
+    </body>
+</html>
